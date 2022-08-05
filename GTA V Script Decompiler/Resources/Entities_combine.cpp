@@ -29,10 +29,7 @@ int main()
 	std::ofstream os("Entities.txt");
 	constexpr const char* in_files[] = {
 		"Entities_gta-v-joaat-hash-db.txt",
-
-		"Entities_stats.txt",
 		"Entities_tunables.txt",
-
 		"Entities_dumpster_reduced.txt",
 	};
 	std::unordered_set<std::int32_t> included_hashes = {};
