@@ -30,6 +30,7 @@ int main()
 	constexpr const char* in_files[] = {
 		"Entities_gta-v-joaat-hash-db.txt",
 		"Entities_tunables.txt",
+		"Entities_misc.txt",
 		"Entities_dumpster_reduced.txt",
 	};
 	std::unordered_set<std::int32_t> included_hashes = {};
