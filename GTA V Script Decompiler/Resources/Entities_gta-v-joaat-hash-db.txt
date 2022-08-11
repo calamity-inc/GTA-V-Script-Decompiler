@@ -1306,6 +1306,7 @@ ms_arm1_winner
 mp1_admin_apartm_gv_bs_3
 mp1_businessbatpstat_int86
 mp1_mpsv_model_270
+mpchristmas2
 mp0_blrifle_mk2_in_possession
 mp1_dlc12022pstat_int217
 mp1_mpsv_obtained_time_91
@@ -2736,6 +2737,7 @@ xm_prop_facility_glass_01c
 prop_securityvan_lightrig
 weapon_heavysniper
 mp1_tupstat_int63
+mpg9ec
 xm_prop_int_studiolo_colfix
 ex_mp_h_din_table_11
 mp0_businessbatpstat_int90
@@ -2790,6 +2792,7 @@ tr_prop_wall_light_02a
 mp0_dlcsmugcharpstat_int80
 prop_glass_panel_01
 prop_fire_driser_4b
+mpjanuary2016
 v_res_fa_cap01
 mp1_lrpstat_int78
 mp0_knife_in_possession
@@ -6849,6 +6852,7 @@ sm_vecstolbru
 mp1_warehouse_crates48
 mp1_gold_intchar_1
 cs_x_rubsmle
+mpxmas_604490
 pickup_money_purse
 mp1_multi_property_value_7
 xm_prop_facility_glass_01d
@@ -6990,6 +6994,7 @@ v_ret_hd_prod6_
 v_74_it3_cor2_deta
 mp1_impexppstat_int30
 ms_ass2_mirror_time
+mphalloween
 mp0_char_kit_41_fm_equip
 mp0_dlc12022pstat_int42
 mp0_su20pstat_int83
@@ -7029,6 +7034,7 @@ mp1_tupstat_int87
 v_34_corrvents
 mp0_property_house_new_value
 mp0_char_creator_illegal
+mpassault
 mp0_champion_mg_deaths
 mp0_longest_playing_time
 mp1_gdgtpst_fm_ammo_bought
@@ -10750,6 +10756,7 @@ mp1_char_fm_weap_addon_17_unlck
 sp2_rpg_deaths
 lr_cs4_02_rcplantb
 mp1_mpsv_impound_time_61
+mphipster
 mp1_nightclubaccesssetting
 v_44_cablemesh3833165_tstd026
 sf_prop_sf_gas_tank_01a
@@ -12523,6 +12530,7 @@ mp0_mpsv_premium_paid_325
 prop_novel_01
 sp0_homlnch_shots
 miss_switch_prologue1
+mpbiker
 sum_prop_barrier_ac_bend_15d
 mp1_snspist_mk2_hits
 mp1_trsmall2_dual_hits
@@ -14455,6 +14463,7 @@ des_finale_tunnel_start
 mp1_arenawarspstat_int88
 mp1_bombushka_cann_shots
 mp0_dlc_apparel_acquired_29
+mpexecutive
 prop_hx_deadl
 mp1_casino_apt_decoration_10
 mp1_cr_gangop_stealthtanks
@@ -14590,6 +14599,7 @@ vw_prop_vw_wallart_06a
 gr_prop_gr_sign_01c
 h4_prop_h4_safe_01a
 tr_prop_tr_chest_01a
+mpchristmas2017
 mp1_dlc12022pstat_int75
 vw_prop_vw_card_case_01a
 mp0_mpsv_price_paid_269
@@ -19043,6 +19053,7 @@ mp1_bikepstat_int190
 mp0_businessbatpstat_int236
 prop_ragganeon
 v_lirg_shop_high
+mppilot
 mp0_cr_hooker_tut
 mp1_clths_used_jbib_2
 mp1_fixerpstat_int141
@@ -19443,6 +19454,7 @@ mp0_lrpstat_int90
 prop_plant_int_04c
 mp0_speedo4_mg_shots
 ch_prop_arc_monkey_01a_screen
+mpbeach
 mp0_mpsv_flags_12
 mp0_prop_auto_shop_value
 mp0_clths_used_feet
@@ -20861,6 +20873,7 @@ bkr_prop_meth_bigbag_02a
 mp1_time_walking
 xm_prop_x17_osphatch_col
 molotok
+mpvalentines2
 family1taxi
 prop_plant_group_04_cr
 mp1_ch_arc_cab_display_slot23
@@ -21686,6 +21699,7 @@ mp1_mpsv_price_paid_320
 mp0_mpsv_flags_270
 mp1_mkrifle_mk2_hits
 mp1_dlc12022pstat_int159
+mplowrider
 script_task_aim_gun_at_entity
 v_ret_chair_white
 mp1_impexppstat_int537
@@ -24108,6 +24122,7 @@ ex_prop_crate_art_02_bc
 w_ar_bp_mk2_barrel1
 mp1_dlc12022pstat_int140
 mp1_heist_mission_player_s_0_1
+mpsum
 sp1_lung_capacity
 v_34_drains001
 mp1_tunerpstat_int106
@@ -25591,6 +25606,7 @@ mp0_char_hair_unlck4
 w_at_smgmk2_camo1
 sp0_mg_range_pist3_hiscore
 num_rampages_completed
+mpchristmas2018
 mp0_mogul_turr_shots
 mp0_dlc_apparel_acquired_189
 mp1_arenawarspstat_int89
@@ -27425,6 +27441,7 @@ mp1_mpsv_lp0_332
 mp1_mpsv_vehicle_bs_54
 mp0_arcade_contraband_mission
 family2
+mpgunrunning
 mp0_akula_mini_enemy_kills
 prop_metal_plates01
 v_ret_gassweetcount
@@ -28268,6 +28285,7 @@ sp1_weap_addon_purch_5
 mp0_mpsv_lp0_163
 mp1_dlc12022pstat_int187
 mp1_mpsv_model_tuner_veh1
+mpsecurity
 mp0_lrpstat_int113
 mp1_casinopstat_int65
 utillitruck3
@@ -28840,6 +28858,7 @@ xs_prop_arena_jump_m_01a
 mp0_dlcsmugcharpstat_int8
 mp1_awd_split_heist_take_evenly
 prop_coral_sweed_01
+mpapartment
 des_plog_decal_root
 mp0_deluxo_bullet_kills
 re_cartheft
@@ -29897,6 +29916,7 @@ ch_prop_box_ammo01b
 mp0_heist_mission_player_6_2
 mp0_arenawarspstat_int278
 mp1_businessbatpstat_int95
+mpvinewood
 mp1_dlcsmugcharpstat_int183
 sp2_mg_hits
 v_res_fashmag1
@@ -31331,6 +31351,7 @@ prop_bought_barhe
 v_ilev_fin_vaultdoor
 mp1_businessbatpstat_int100
 w_sb_microsmg_mag2_luxe
+mpheist
 v_ilev_mm_faucet
 mp1_deluxo_bullet_hits
 stt_prop_stunt_track_st_02
@@ -31819,6 +31840,7 @@ mp0_cc_rep_vst_cm_prgrss
 surge
 prop_fnccorgm_02a
 prop_telegraph_01f
+mplowrider2
 mp0_caracara_mini_kills
 mp1_dinghy5_turr_headshots
 mp0_cmpgl_deaths
@@ -32153,6 +32175,7 @@ mp1_impexppstat_int16
 mpply_bg_script_int_06
 hei_heist_stn_benchshort
 prop_oil_wellhead_05
+mpsmuggler
 mp0_ch_getaway_mod_liv1
 mp1_arenawarspstat_int260
 mp0_prxmine_kills
@@ -34332,6 +34355,7 @@ csb_cop
 sp2_weap_tint_purch_6
 ba_prop_battle_club_speaker_dj
 black
+mpluxe
 v_11_abbprodplats2
 bkr_prop_bkr_cashpile_01
 mp1_impexppstat_int596
@@ -34451,6 +34475,7 @@ bkr_prop_grow_lamp_02a
 xm_prop_x17_skin_osphatch
 mp1_deaths_player
 prop_bleachers_05
+mpindependence
 mp1_unlock_dm_hipster_tshirt
 mp0_admin_veh_rm_bs_2
 mp0_swblade_enemy_kills
@@ -38611,6 +38636,7 @@ mp1_toscounter
 mp1_revolver_kills
 mp1_jubilee_mg_enemy_kills
 deprecated_script_task_set_ignore_weapon_range_flag
+mpspecialraces
 mp0_fixerpstat_int33
 mp1_shopfm_tattoo_03_pb
 prop_ld_wallet_01
@@ -39784,6 +39810,7 @@ mp1_strikeforce_mis_heldtime
 v_res_fa_basket
 pop_v_bank_door_l
 mp1_savestra_mg_deaths
+spupgrade
 gb_biker_unload_weapons
 mp1_lazer_rocket_hits
 mp0_char_join_social_club_msg
@@ -40498,6 +40525,7 @@ mp0_casinopstat_int118
 w_at_afgrip_2
 mp0_warehouse_crates47
 sp2_knife_kills
+mpvalentines
 v_31_walltext026
 sp2_firewrk_heldtime
 mp1_dg_monkey_initials_0
@@ -41214,6 +41242,7 @@ deprecated_script_task_ped_arrest_ped
 mp0_fm_act_ph8
 mp1_bikepstat_int73
 mp0_dlc12022pstat_int38
+mpstunt
 mp0_ie_stock_cd
 mp0_minitank_fl_deaths
 prop_tree_fallen_pine_01
@@ -43503,6 +43532,7 @@ green
 mp0_sniperrfl_headshots
 mp0_lifetime_buy_complete
 mp1_mpsv_price_paid_177
+mplts
 prop_cs_rage_statue_p1
 mp0_knuckle_aquired_as_gift
 mp1_cbv_state
@@ -44110,6 +44140,7 @@ prop_cs_petrol_can
 xs_prop_lplate_bend_01a_wl
 mp0_businessbatpstat_int256
 hei_prop_carrier_trailer_01
+mpbusiness
 stt_prop_corner_sign_13
 v_res_pcwoofer
 mpply_bg_script_int_18
@@ -44155,6 +44186,7 @@ mp1_bikepstat_int81
 mp1_tattoo_fm_unlocks_33
 mp0_issi4_mg50_shots
 mp0_illuminated_clothing
+mpbattle
 wiz_ow1
 v_lirg_frankhill_ward_main
 xs_propintarena_structure_s_01a
@@ -44177,6 +44209,7 @@ apa_mp_h_yacht_sofa_01
 mp1_clths_available_props
 mp1_mpsv_obtained_time_127
 mp0_gettruckscore_9
+mpimportexport
 mp0_mpsv_lp0_246
 mp1_objectivehistory23
 v_31_flow1_0069
@@ -45163,6 +45196,7 @@ sp2_buzzard_rocket_shots
 mp1_mpsv_vehicle_bs_356
 mp1_mpsv_impound_time_189
 mp1_impexppstat_int607
+mptuner
 mp1_bikepstat_int6
 mp1_dlc12022pstat_int224
 mp0_hvysniper_fm_ammo_bought
@@ -48655,6 +48689,7 @@ gr_prop_gr_tool_draw_01d
 mp0_dlc_apparel_acquired_131
 mp1_mpsv_lp0_246
 prop_ld_handbag_s
+mpheist3
 weapon_machinepistol
 mp1_businessbatpstat_int288
 mp0_mpsv_impound_time_222
@@ -53833,6 +53868,7 @@ apa_mp_h_stn_chairarm_09
 sm_kilwmai
 mp1_clths_acquired_jbib_4
 sp2_weap_addon_view_0
+mpheist4
 mp0_mpsv_lp0_252
 mp0_tupstat_int20
 gb_terminate
@@ -54226,6 +54262,7 @@ mp1_insurgent3_mini_kills
 server_last_update
 prop_car_door_04
 prop_skid_pillar_01
+mpbusiness2
 mp0_warehouse_cargo_src_posix_3
 mp1_awd_fmkillstreaksdm
 mp1_businessbatpstat_int279
@@ -55187,6 +55224,7 @@ mp1_heist_saved_strand_9_m
 mp1_gbtelnogoon_givtermboun
 mp0_mpsv_model_318
 mp1_sawnoff_deaths
+mpluxe2
 mpply_spawn_position_1
 mpply_vehexec
 mp0_apapstat_int26
