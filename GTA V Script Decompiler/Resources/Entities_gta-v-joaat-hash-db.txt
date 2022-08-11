@@ -129,6 +129,7 @@ mp1_jb7002_mg_deaths
 mp1_fixerpstat_int104
 spcarbine_shots
 mp0_dlc_apparel_acquired_224
+component_pumpshotgun_mk2_camo_05
 mp1_missionforfactory1
 weap_unlock_0
 vom_ow1
@@ -182,6 +183,7 @@ prop_coral_kelp_04
 prop_flag_mexico_s
 sf_int3_entrance_doors
 prop_bush_lrg_01c_cr
+component_revolver_mk2_camo_02
 mp_weapons
 mp0_firework_type_2_white
 vw_prop_vw_wallart_166a
@@ -392,6 +394,7 @@ mpsv_obtained_time_136
 tr_prop_tr_officedesk_01a
 mp1_casinopstat_int70
 mp1_businessbatpstat_int12
+component_pistol_mk2_camo_04
 prop_mp_barrier_02
 sp1_longest_stoppie_time
 awd_win_last_team_standings
@@ -585,6 +588,7 @@ mp1_arenawarspstat_int133
 mp0_mpsv_obtained_time_81
 heist_role_15
 prop_vault_door_scene
+component_bullpuprifle_mk2_camo_06
 mp1_char_fm_package_9_collect
 mp0_mckills
 raycarbine_heldtime
@@ -689,6 +693,7 @@ stt_prop_stunt_soccer_sball
 mp1_dlc12022pstat_int68
 mp0_casinopstat_int121
 s_f_y_hooker_01
+component_combatmg_mk2_camo_10
 xs_prop_arena_turret_post_01a_sf
 mp1_impexppstat_int422
 mp1_su20pstat_int12
@@ -1779,6 +1784,7 @@ mp1_speedo4_mg_deaths
 mp0_casinopstat_int130
 appbunkerbusiness
 mp0_rev_mk2_aquired_as_gift
+component_snspistol_mk2_camo_09
 s_m_m_autoshop_03
 bikepstat_int101
 mp0_hvypistol_fm_ammo_bought
@@ -2783,6 +2789,7 @@ v_24_sta_mesh_plant
 mp0_mpsv_vehicle_bs_282
 prop_venice_sign_03
 mp1_has_char_quit_speccam_sur
+component_specialcarbine_mk2_camo_07
 ba_prop_battle_crates_rifles_02a
 mpsv_lp0_9
 hei_prop_heist_pic_08
@@ -2839,6 +2846,7 @@ mp0_damage_scar_scale_16
 prop_dolly_02
 mg_in_possession
 prop_fib_clipboard
+component_revolver_mk2_camo_03
 mp0_mpsv_premium_paid_68
 mp0_favoutfitbiketimecurrent
 casinopstat_int108
@@ -3761,6 +3769,7 @@ prop_bin_beach_01a
 mp1_awd_wreck_diving
 mp0_mkrifle_deaths
 snspistol_fm_ammo_bought
+component_combatmg_mk2_camo_09
 mp0_casinohstpstat_int70
 mp1_impexppstat_int293
 consecutivemonthcompletesa
@@ -4162,6 +4171,7 @@ v_serv_tu_light1_
 mp0_khanjali_rocket_enemy_kills
 ob_wheatgrass
 pistoltracerammocurrent
+component_snspistol_mk2_camo
 mp0_mpsv_impound_time_341
 mp1_impexppstat_int15
 v_med_pillow
@@ -4445,6 +4455,7 @@ v_club_vu_chngestool
 prop_forsale_sign_06
 mp0_mpsv_flags_65
 fl_co_fh2b
+component_marksmanrifle_mk2_camo_07
 mp0_pilot_multiplier_3
 gr_prop_bunker_deskfan_01a
 mp1_pstat_int13
@@ -4637,6 +4648,7 @@ mp1_volatol_mg_hits
 dlc_apparel_acquired_107
 mpsv_vehicle_bs_122
 mp0_apapstat_int93
+component_revolver_mk2_camo_05
 mp0_dlc_apparel_acquired_83
 mg_range_lmg3_hiscore
 mp0_comet4_mg_deaths
@@ -5301,6 +5313,7 @@ prop_breadbin_01
 mp0_tupstat_int49
 mp0_dlcsmugcharpstat_int76
 tr_int2_insulation
+component_heavysniper_mk2_camo_04
 a_m_m_genfat_02
 prop_vcr_01
 gangopspstat_int31
@@ -5940,6 +5953,7 @@ mp0_heist_mission_player_3_0
 pegassi tee
 v_serv_tu_trak1_
 bg_script_int_26
+component_pistol_mk2_camo_02
 s_f_y_cop_01
 prop_06_sig1_k
 sm_clobofpkw
@@ -6222,6 +6236,7 @@ mp1_businessbatpstat_int206
 mp0_bruiser2_mg50_deaths
 mp0_shopfm_gun_07_mw
 mpsv_impound_time_72
+component_pumpshotgun_mk2_camo_02
 mpply_cas_gmblng_l24_8
 dlcsmugcharpstat_int27
 fl_co_dh2b
@@ -6424,6 +6439,7 @@ mp0_akula_barr_deaths
 ba_prop_sign_omega
 mp0_bg_script_int_24
 hw1_lod_slod4
+component_revolver_mk2_camo_06
 longest_stoppie_time
 mp1_impexppstat_int591
 mp0_mpsv_premium_paid_121
@@ -6835,6 +6851,7 @@ money_earn_sell_nc_goods
 mp1_lrpstat_int52
 v_16_mid_hall_mesh_delta
 frag_plank_e
+component_marksmanrifle_mk2_camo_06
 v_31a_start_tun_roombits1
 mp1_dlcsmugcharpstat_int48
 mp1_h4cnf_bs_abil
@@ -7373,6 +7390,7 @@ sp0_knife_kills
 mp1_admin_veh_rm_bs_8
 mp1_arn_drink
 mp1_mpsv_price_paid_345
+component_combatmg_mk2_camo_08
 mp1_contact_miss_3
 v_ilev_phroofdoor
 v_19_strpfrntpl
@@ -8866,6 +8884,7 @@ mp1_mpsv_impound_time_237
 mp1_stkybmb_db_heldtime
 mp0_cmbtmg_headshots
 v_ind_cf_meatbox
+component_revolver_mk2_camo_10
 ex_prop_exec_lighter_01
 mpsv_vehicle_bs_117
 prop_temp_carrier
@@ -9195,6 +9214,7 @@ mp0_pistol_enemy_kills
 mp0_hangar_lighting
 hunter_rocket_hits
 mp0_dlcsmugcharpstat_int192
+component_smg_mk2_camo_09
 dlcsmugcharpstat_int217
 sp2_longest_playing_time
 mp0_su20pstat_int132
@@ -9549,6 +9569,7 @@ fm_content_bar_resupply
 heist_role_43
 mp1_impexppstat_int239
 hesit_launch_time
+component_snspistol_mk2_camo_10
 mp0_businessbatpstat_int233
 mpsv_flags_224
 _profile_setting_800
@@ -9874,6 +9895,7 @@ dlcsmugcharpstat_int249
 weapon_molotov
 mpsv_lp0_197
 mp1_tupstat_int5
+component_smg_mk2_camo_07
 xs_prop_barrier_15m_01a
 deathbike2_las_heldtime
 ms_ext2_number_of_spins
@@ -9896,6 +9918,7 @@ molotok_mg_headshots
 mp0_dlcsmugcharpstat_int18
 mpply_pilot_school_medal_5
 sf_prop_sf_scr_m_lrg_01b
+component_pumpshotgun_mk2_camo_03
 mp0_ggsm_initials_6
 sp1_tires_popped_by_gunshot
 mpsv_price_paid_135
@@ -10076,6 +10099,8 @@ prop_sec_gate_01b
 mp0_dlc_apparel_acquired_134
 xs_combined2_dyst_07_build_g
 mp1_mpsv_model_269
+component_assaultrifle_mk2_camo_04
+component_revolver_mk2_camo_07
 mp0_su20pstat_int197
 mp0_tunerpstat_int43
 mp1_mpsv_obtained_time_118
@@ -10307,6 +10332,7 @@ rockstar_verified_hash_5
 component_smg_clip_01
 mp0_dlc_apparel_used_36
 cmbtmgtracerammocurrent
+component_heavysniper_mk2_camo_05
 mp0_bunker_staff
 impexppstat_int105
 v_ret_247shelves04
@@ -12704,6 +12730,7 @@ sr_mp_spec_races_ron_sign+hidr
 mp0_damage_scar_uvpos_7
 pickup_weapon_minigun
 fm_char_stats2
+component_carbinerifle_mk2_camo_03
 mpsv_vehicle_bs_163
 mp1_impexppstat_int334
 prop_handdry_02
@@ -12951,6 +12978,7 @@ cs3_lod_s3_01
 ch_prop_ch_heist_drill
 sp0_most_spins_in_one_jump
 w_lr_compactgl_mag1
+component_heavysniper_mk2_camo_06
 mp0_casinopstat_int87
 mp1_total_no_weapons_used
 mp0_tupstat_int92
@@ -14166,6 +14194,7 @@ bkr_prop_cutter_moneypage
 prop_cs_fridge_door
 mp0_total_times_arrested
 dlc_apparel_acquired_126
+component_specialcarbine_mk2_camo_03
 sm_prop_smug_crate_s_medical
 prop_scrap_2_crate
 mp0_dlc_apparel_acquired_242
@@ -14374,6 +14403,7 @@ mp1_usjs_found
 mp1_asltrifle_deaths
 prop_test_boulder_04
 mp0_char_exploit_level
+component_smg_mk2_camo_06
 mp0_mpsv_lp0_212
 mpsv_lp0_268
 mp1_fm_act_ph3
@@ -14833,6 +14863,7 @@ prop_cs_sub_rope_01
 mp1_mpsv_obtained_time_14
 xs_propintarena_structure_f_01a
 fl_co_finb
+component_revolver_mk2_camo_08
 mp1_dlc_apparel_used_125
 headblend_geom_blend
 mp1_dlc12022pstat_int74
@@ -15028,6 +15059,7 @@ mp0_mpsv_model_31
 mpply_casino_gmblng_gd
 mp0_vehmine_spi_kills
 mpsv_vehicle_bs_22
+component_assaultrifle_mk2_camo_02
 mpply_available_heist_plan
 bkr_prop_scrunched_moneypage
 gb_system_help_text2
@@ -15083,6 +15115,7 @@ mp0_mpsv_impound_time_74
 mp0_pyro_miss_enemy_kills
 mp1_su20pstat_int202
 dlc_apparel_used_28
+component_smg_mk2_camo_02
 bruiser2_mg50_hits
 mp1_cc_rep_tm_cm_gmdy
 mp1_dlc12022pstat_int155
@@ -15486,6 +15519,7 @@ mp1_nightclub_name
 prop_fence_log_01
 prop_sign_road_03u
 dlc_apparel_used_197
+component_smg_mk2_camo_ind_01
 heli_streaming
 prop_office_gar3_lighting
 mp1_mpsv_premium_paid_196
@@ -15961,6 +15995,7 @@ mp1_dlc12022pstat_int112
 scarab2_mg50_hits
 mp1_trsmall2_miss_kills
 prop_ashtray_01
+component_marksmanrifle_mk2_camo_10
 prop_can_canoe
 mpsv_impound_time_66
 imp_prop_tool_draw_01e
@@ -17357,6 +17392,7 @@ mp0_dlc_apparel_used_126
 mpsv_vehicle_bs_251
 mp1_molotok_mg_headshots
 prop_cs_street_card_01
+component_carbinerifle_mk2_camo_02
 mp1_mpsv_impound_time_169
 mp1_strikeforce_can_enemy_kills
 mp0_bkr_prod_stop_cout_s3_3
@@ -18018,6 +18054,7 @@ h4_mp_h_yacht_table_lamp_01
 imp_prop_adv_hdsec
 p_waterboardc_s
 sf_int2_wallpaper02_01
+component_snspistol_mk2_camo_07
 h4_des_hs4_gate_exp_04
 mp0_tunerpstat_int98
 mp1_mpsv_impound_time_190
@@ -18079,6 +18116,7 @@ xs_prop_arena_turret_01a
 mpsv_lp0_158
 damage_scar_forceframe_18
 mp0_mpsv_vehicle_bs_223
+component_specialcarbine_mk2_camo_02
 stt_prop_stunt_tube_xxs
 a_c_poodle
 mp0_mpsv_model_356
@@ -18327,6 +18365,7 @@ mp1_fixerpstat_int149
 longest_drive_nocrash
 stromberg_torp_shots
 h4_prop_battle_lights_01_bright
+component_snspistol_mk2_camo_ind_01
 mp0_rev_mk2_in_possession
 mp1_impexppstat_int708
 v_19_stpprvrmpics
@@ -18817,6 +18856,7 @@ mp1_contact_miss_4
 prop_dock_shippad
 mp1_objectivedailyobjectives1
 nightclub_timer_14
+component_smg_mk2_camo_10
 apa_mp_h_yacht_stool_01
 mpsv_impound_time_22
 bikepstat_int61
@@ -18953,6 +18993,7 @@ mp1_mpsv_lp0_105
 mpsv_price_paid_68
 mp1_mpsv_lp0_236
 sr_prop_spec_tube_crn_01a
+component_pumpshotgun_mk2_camo_ind_01
 mp1_char_carpaintsec_view_2
 mpsv_vehicle_bs_51
 mp0_tattoo_fm_viewed_42
@@ -19622,6 +19663,7 @@ holdups_bitset
 cr_humane_emp
 tattoo_fm_unlocks_37
 mp1_mpsv_flags_344
+component_combatmg_mk2_camo_05
 mp1_signal_jammers_collected
 mp1_lrpstat_int38
 sm_brvecdesmai
@@ -19669,6 +19711,7 @@ casinohstpstat_int42
 mp1_lfetime_ie_export_started
 mp0_gangopspstat_int24
 mp0_mpsv_impound_time_223
+component_revolver_mk2_camo_09
 mp0_mpsv_price_paid_321
 mp1_silver_intchar_3
 v_34_curtain01
@@ -19698,6 +19741,7 @@ prop_satdish_s_05b
 mp0_pipebomb_shots
 mp1_dlc_apparel_used_26
 khanjali_hcann_kills
+component_smg_mk2_camo_05
 casinohstpstat_int92
 mp0_mpsv_price_paid_327
 mpsv_model_102
@@ -20120,6 +20164,7 @@ mp1_hunter_cannon_deaths
 sm_prop_smug_crate_s_tobacco
 prop_parasol_04e_lod1
 mp1_char_hair_viewed15
+component_combatmg_mk2_camo
 mp1_bikepstat_int47
 dlc_apparel_used_229
 mp0_fixerpstat_int56
@@ -20312,6 +20357,7 @@ mp1_damage_scar_scale_3
 mp1_mpsv_vehicle_bs_20
 black tale of us 0logo tee
 mp1_issi4_mg50_shots
+component_smg_mk2_camo_03
 hei_prop_dt1_20_mph_door_l
 casinopstat_int2
 overlay_body_3
@@ -20474,6 +20520,7 @@ sm_vecbuymai
 mp0_favorite_veh_type_current
 mp0_apapstat_int51
 arenawarspstat_int154
+component_carbinerifle_mk2_camo
 mp1_fm_act_ph8
 mp1_dune3_mini_enemy_kills
 sf_mp_apa_y3_l1c
@@ -20918,6 +20965,7 @@ mp0_mpsv_obtained_time_102
 ch_prop_arcade_monkey_01a
 mp0_char_fm_package_5_collect
 mp1_mpsv_vehicle_bs_120
+component_pistol_mk2_camo_08
 sf_mpyacht_entrydetail
 mp1_times_complete_distcops1
 prop_cs1_14b_traind
@@ -21045,6 +21093,7 @@ mp1_tattoo_fm_viewed_32
 mp0_bombushka_dual_shots
 imp_prop_impexp_cargo_01
 mp1_cr_welcome
+component_snspistol_mk2_camo_06
 w_pi_pistolmk2_camo6
 sf_int3_floorbox001
 mp0_char_kit_fm_purchase26
@@ -22177,6 +22226,7 @@ sp1_mg_range_lmg3_hiscore
 mp0_fm_cellphone_vibrate
 mp0_apc_miss_kills
 mp1_damage_scar_age_13
+component_specialcarbine_mk2_camo_ind_01
 w_at_heavysnipermk2_camo_ind1
 sp1_mg_range_ar2_hiscore
 xs_arenalights_track_morning
@@ -22556,6 +22606,7 @@ mp1_char_kit_fm_purchase34
 ig_lifeinvad_01
 mpsv_lp0_191
 mp1_hvysniperexplosammobought
+component_assaultrifle_mk2_camo_03
 mp0_khanjali_hcann_deaths
 apa_mp_h_floorlamp_b
 sf_prop_sf_monitor_b_02a
@@ -22884,6 +22935,7 @@ v_73_4_fib_reflect04
 mpsv_model_148
 mp0_warehouse_crates23
 ch_arc_love_level6
+component_snspistol_mk2_camo_08
 mp1_lrpstat_int64
 mp0_bikepstat_int23
 mp0_fixer_short_trips
@@ -24989,6 +25041,7 @@ mp0_arenawarspstat_bool8
 su20pstat_int146
 snspist_mk2_db_heldtime
 mp1_wrench_in_possession
+component_pistol_mk2_camo
 v_ret_ml_beerpat1
 mp1_awd_fmmostspinsinonevehicle
 mp1_impexppstat_int90
@@ -25732,6 +25785,7 @@ mp1_mpsv_model_48
 char_kit_24_fm_viewed
 mp0_mpsv_premium_paid_122
 mp1_casinopstat_int151
+component_pistol_mk2_camo_09
 sp2_vehicles_destroyed_on_spree
 mp0_mpsv_model_94
 mp1_heist_role_24
@@ -26144,6 +26198,7 @@ mp0_fm_seco_colour
 mp1_ruiner2_rocket_heldtime
 sf_int2_1_shell_elevator003
 mp0_arenawarspstat_int62
+component_marksmanrifle_mk2_camo_03
 sum_prop_ac_constructsign_01a
 dlc_apparel_acquired_160
 v_24_llga_mesh_props
@@ -27944,6 +27999,7 @@ mp1_mpsv_premium_paid_211
 mp0_clths_available_hair_2
 mp0_player_anim_setting
 v_res_m_lamptbl_off
+component_pumpshotgun_mk2_camo_10
 mp1_wrench_fm_ammo_current
 mp1_mpsv_vehicle_bs_234
 mp0_tula_dualmg_deaths
@@ -28444,6 +28500,7 @@ prop_scafold_06a
 sp2_mkrifle_db_heldtime
 ex_mp_h_acc_bottle_01
 ms_exl1_bail_in_car
+component_pistol_mk2_camo_10
 v_16_bathmirror
 machete_deaths
 mpsv_price_paid_77
@@ -28890,6 +28947,7 @@ mp0_savage_rocket_heldtime
 tr_int1_mod_framework
 mp1_imperator_mg50_heldtime
 mpsv_flags_228
+component_carbinerifle_mk2_camo_10
 v_19_strip_off_overs
 lrpstat_int25
 mp1_char_hair_unlck15
@@ -29202,6 +29260,7 @@ prop_h4_l_shape_l_01a
 flaregun_heldtime
 mp0_mpsv_lp0_216
 sp1_mg_range_pist3_hiscore
+component_heavysniper_mk2_camo_ind_01
 mp1_char_hair_unlck1
 mp0_mpsv_flags_325
 mp1_nightclub_style
@@ -31091,6 +31150,7 @@ mp0_mpsv_price_paid_322
 mpsv_model_52
 arenawarspstat_int86
 prop_skate_kickers
+component_marksmanrifle_mk2_camo_02
 lrpstat_int36
 mp0_damage_scar_rotation_3
 xm_prop_facility_glass_01h
@@ -31894,6 +31954,7 @@ mp1_impexppstat_int301
 mp0_tupstat_int186
 sp2_weap_addon_unlock_5
 tr_prop_tr_door9
+component_combatmg_mk2_camo_04
 mp1_mpsv_premium_paid_88
 v_ilev_fh_bedrmdoor
 mp0_hunter_bullet_deaths
@@ -32132,6 +32193,7 @@ mp1_fixerpstat_int21
 mp0_arn_bs_unlck_itm_view_13
 sm_vecmodlsc
 selector
+component_snspistol_mk2_camo_03
 sp0_nightstick_kills
 arenawarspstat_int26
 mp1_impexppstat_int558
@@ -33306,6 +33368,7 @@ insurgent2
 prop_bar_cooler_01
 mpsv_price_paid_152
 mp1_factoryupgrades1_2
+component_specialcarbine_mk2_camo_09
 bison2
 clths_available_berd_2
 mp1_businessbatpstat_int244
@@ -33576,6 +33639,7 @@ char_kit_12_fm_equip
 v_ilev_mldoor02
 mp1_minismg_aquired_as_gift
 mp0_toreador_mg_shots
+component_assaultrifle_mk2_camo_09
 mp1_mpsv_premium_paid_91
 prop_strip_pole_01
 sum_p_mp_yacht_door_02
@@ -35714,6 +35778,7 @@ mp1_lrpstat_int198
 mp0_bullpup_shots
 mp1_money_earn_bank_interest
 dlc_apparel_acquired_210
+component_combatmg_mk2_camo_07
 vehicle_weapon_mule4_mg
 p_ice_box_01_s
 mp1_casinopstat_int98
@@ -36053,6 +36118,7 @@ mp1_casinohstpstat_int6
 prodtotalforfactory5
 mp1_dlc12022pstat_int48
 prop_ic_ghost
+component_tacticalrifle_clip_02
 dlc_apparel_used_129
 v_club_officeset
 mp0_awd_fmfurthestwheelie
@@ -36228,6 +36294,7 @@ mpsv_flags_256
 mpply_can_spectate
 awd_vehicle_jump_over_40m
 num_hidden_packages_0
+component_carbinerifle_mk2_camo_06
 mp1_bruiser2_mg50_deaths
 mp0_arenawarspstat_int189
 mp1_tunerpstat_int35
@@ -37172,6 +37239,7 @@ mp1_awd_fm_tennis_stasetwin
 mp0_dlc12022pstat_int209
 ms_finb_killmic
 fameorshame_eps_1
+component_specialcarbine_mk2_camo_10
 mp0_casinohstpstat_int38
 mp1_vigilante_mg_kills
 mp1_vip_new_message_icon
@@ -37223,6 +37291,7 @@ bikepstat_int45
 ch_prop_ch_vault_blue_10
 mp0_mpsv_flags_334
 mp0_oppressor2_mg_hits
+component_specialcarbine_mk2_camo_08
 arenawars_skill_level
 impexppstat_int690
 am_mp_bunker
@@ -37329,6 +37398,7 @@ w_ar_assaultriflemk2_mag_tr
 mp0_oppressor_mg_hits
 a_m_y_soucent_04
 w_pi_revolver_g
+component_bullpuprifle_mk2_camo_05
 mp1_su20pstat_int80
 vw_prop_vw_dia_char_10a
 khanjali_mg_enemy_kills
@@ -37367,6 +37437,7 @@ businessbatpstat_int35
 p_oscar_necklace_s
 sr_mp_spec_races_ammu_sign+hifr
 prop_overalls_01
+component_snspistol_mk2_camo_02
 mp0_mpsv_premium_paid_291
 xs_prop_arena_jump_xs_01a
 mp1_mpsv_impound_time_9
@@ -38986,6 +39057,7 @@ char_mood_races
 ch_prop_track_ch_bend_bar_l_b
 sp2_rhino_rocket_hits
 mp1_hislandpstat_int0
+component_marksmanrifle_mk2_camo
 component_at_sr_barrel_01
 mp1_dlc_apparel_used_130
 mp0_dlc_apparel_acquired_72
@@ -39119,6 +39191,7 @@ v_med_p_floorlamp
 mp0_mpsv_model_210
 sf_int1_support_pillar
 impexppstat_int240
+component_assaultrifle_mk2_camo
 a_f_y_gencaspat_01
 axefuryinitials_6
 prop_sign_airp_02b
@@ -39234,6 +39307,7 @@ mp0_dlc12022pstat_int68
 mp0_tupstat_int100
 xs_prop_scifi_09_lights_set
 mp0_awd_monkey_c_monkey_do
+component_combatmg_mk2_camo_06
 mp0_businessbatpstat_int311
 prop_pallet_pile_01
 mp0_mpsv_lp0_77
@@ -39630,6 +39704,7 @@ component_ceramicpistol_supp
 jukeboxplaylisttime6
 ms_arm1_special_ability_time
 xs_prop_arena_pit_double_01a_sf
+component_pistol_mk2_camo_ind_01
 mp0_damage_scar_uvpos_5
 mp0_char_crewunlock_4_fm_equip
 sp1_total_wheelie_time
@@ -39983,6 +40058,7 @@ mp1_bat_enemy_kills
 v_16_low_ktn_mesh_units
 mp1_impexppstat_int174
 v_res_smallplasticbox
+component_bullpuprifle_mk2_camo_04
 mp0_cr_pacific_hack
 the simian shirt
 v_ilev_cd_sprklr_on2
@@ -40509,6 +40585,7 @@ mp0_cr_airporttake
 prop_laptop_lester2
 arenawarspstat_int150
 mp0_quadbike_exploded
+component_pistol_mk2_camo_03
 no_tattoos_unlock
 pilot_checkpointcount_4
 ch_prop_chip_tray_01b
@@ -41037,6 +41114,7 @@ vw_prop_vw_boxwood_01a
 mp1_damage_scar_age_9
 mp1_dlc_apparel_acquired_217
 impexppstat_int671
+component_carbinerifle_mk2_camo_09
 mp1_awd_arena_legend
 mp1_smgtracerammobought
 prop_flag_lsservices_s
@@ -41918,6 +41996,7 @@ fl_co_jhp1a
 prop_h4_wall_01a
 bikepstat_int86
 sawnoff_kills
+component_marksmanrifle_mk2_camo_09
 ch_prop_ch_securesupport_half01x
 dlcsmugcharpstat_int149
 stt_prop_speakerstack_01a
@@ -42148,6 +42227,7 @@ prop_cs_silver_tray
 mp1_pist_mk2_enemy_kills
 v_39_ventilation
 award_black_coil_tee
+component_snspistol_mk2_camo_05
 mp0_lrpstat_int88
 dlc_apparel_acquired_152
 mp1_arenawarspstat_int282
@@ -42455,6 +42535,7 @@ mp1_prop_casino_gar1_value
 mp1_mpsv_premium_paid_84
 phantom2
 fl_co_fhprb
+component_at_ar_flsh_reh
 mp1_barrage_t_mini_heldtime
 mp1_dlc_apparel_acquired_138
 sf_int1_table_player
@@ -43847,6 +43928,7 @@ prop_air_blastfence_02
 mp1_damage_scar_scale_21
 mp1_su20pstat_int134
 mp1_admin_clothes_rm_bs_10
+component_smg_mk2_camo_08
 g_m_y_pologoon_02
 mp0_mpsv_price_paid_179
 mp1_mpsv_flags_166
@@ -44555,6 +44637,7 @@ launcher_nigel
 bunker_staff
 h4_prop_battle_lights_fx_support
 cloudhat_shower_b
+component_assaultrifle_mk2_camo_10
 mp0_mpsv_premium_paid_190
 prop_box_wood05a
 mp1_businessbatpstat_int133
@@ -44848,6 +44931,7 @@ mp0_bikepstat_int164
 h4_prop_sign_palace
 arenawarspstat_int56
 mp0_lrpstat_int114
+component_bullpuprifle_mk2_camo_03
 sum_prop_ac_barge_col_01
 w_ar_specialcarbinemk2_camo1
 mp1_mpsv_impound_time_320
@@ -45312,6 +45396,7 @@ mp0_mpsv_vehicle_bs_314
 prop_abat_slide
 v_ret_windowutil
 mp1_h4_target_posix
+component_bullpuprifle_mk2_camo_10
 mp0_fixerpstat_int128
 sf_prop_sf_mic_rec_02a
 player_scene_m_cinema
@@ -45528,6 +45613,7 @@ mp0_mpsv_price_paid_104
 prop_mk_num_3
 mp1_dlc_apparel_used_5
 mp0_gangopspstat_int67
+component_snspistol_mk2_camo_04
 slamvan5_las_shots
 stt_prop_sign_circuit_13
 mp1_favoutfitbiketypealltime
@@ -45651,6 +45737,7 @@ prop_kt1_06_door_l
 mpsv_flags_249
 mp1_arn_bs_unlck_itm_view_15
 mpsv_lp0_2
+component_assaultrifle_mk2_camo_07
 sf_prop_tool_draw_01a
 ex_office_swag_booze_cigs
 sf_int3_glass_table_004
@@ -45988,6 +46075,7 @@ mp0_mpsv_model_88
 ruiner2_rocket_hits
 mp0_rayminigun_enemy_kills
 sf_int1_office_wpaper_5
+component_carbinerifle_mk2_camo_08
 prop_cs_bottle_opener
 usjs_completed_mask
 ig_chengsr
@@ -46264,6 +46352,7 @@ ch_prop_ch_crate_01a
 xs_propint3_waste_05_goals
 p_cs_panties_03_s
 contact_miss_hash_15
+component_heavysniper_mk2_camo_10
 prop_rail_sign04
 mp0_casinohstpstat_int23
 mp0_h4_playthrough_status
@@ -46448,6 +46537,7 @@ mp0_h4_cr_distruptbackup
 mp1_mpsv_lp0_259
 sf_prop_sf_bed_dog_01b
 mp0_impexppstat_int549
+component_heavysniper_mk2_camo_07
 mp0_pipebomb_fm_ammo_current
 v_ret_gc_ammo1
 cr_beamhack
@@ -46918,6 +47008,7 @@ mp0_grottishirtunlock
 mp0_su20pstat_int116
 sp2_vpistol_kills
 prop_sign_road_04y
+component_bullpuprifle_mk2_camo
 mp0_char_fm_weap_addon_16_unlck
 v_ind_cs_box01
 mp1_arn_w_theme_scifi
@@ -48673,6 +48764,7 @@ sp1_miniguns_heldtime
 businessbatpstat_int372
 spawn_activities
 mp0_blazer5_cannon_shots
+component_specialcarbine_mk2_camo_04
 mp1_script_increase_stam
 mp0_awd_shortfrank_2
 mp1_airstrike_heldtime
@@ -49411,6 +49503,7 @@ mp1_tupstat_int127
 _mpavgupbps
 luxor2
 mp0_prop_fac_slot5
+component_marksmanrifle_mk2_camo_ind_01
 mp1_arenawarspstat_int238
 tr_int2_light_proxy_meet_fancy
 v_31a_tunswap_tarp
@@ -49782,6 +49875,7 @@ mp0_warhouseslot3
 mp0_mpsv_vehicle_bs_42
 sf_prop_sf_el_box_01a
 mp0_dlc12022pstat_int121
+component_bullpuprifle_mk2_camo_02
 mp0_dlcsmugcharpstat_int259
 admin_clothes_rm_bs_32
 sp0_gusnbrg_kills
@@ -49953,6 +50047,7 @@ mp0_speedo4_turr_deaths
 axefuryscore_0
 mp0_impexppstat_int548
 mp1_tupstat_int101
+component_assaultrifle_mk2_camo_ind_01
 prop_gaffer_tape
 xs_prop_x18_vip_greeenlight
 mp0_char_fm_package_2_collect
@@ -50402,6 +50497,7 @@ prop_busker_hat_01
 imp_prop_impexp_rasp_03
 mp0_su20pstat_int12
 mp0_awd_sunset
+component_pistol_mk2_camo_07
 mp1_admin_clothes_gv_bs_42
 xs_propint2_building_base_03
 mp1_bottle_hits
@@ -51303,6 +51399,7 @@ mp1_ch_arc_love_level1
 ex_mapmarker_16_la_mesa_3
 mp1_cmbmg_mk2_heldtime
 mp0_scarab2_las_enemy_kills
+component_combatmg_mk2_camo_03
 sm_price_bdg
 mp1_axefuryscore_0
 mp0_lifetime_bkr_sell_completbc
@@ -51321,6 +51418,7 @@ mpply_crew_local_xp_3
 maude1
 mp1_lrpstat_int4
 reh_prop_reh_harddisk_01a
+component_heavysniper_mk2_camo_08
 sp0_firewrk_db_heldtime
 su20pstat_int214
 mp0_toreador_torp_deaths
@@ -51734,6 +51832,7 @@ dt1_21_scaffold_11
 sm_prop_smug_hangar_lamp_wall_a
 mp0_mpsv_price_paid_182
 mp0_near_miss_precise
+component_revolver_mk2_camo
 mp0_dlc_apparel_used_3
 bravado stylized tee
 mp1_cmbtpistol_fm_ammo_bought
@@ -52882,6 +52981,7 @@ mp1_mpsv_premium_paid_142
 w_pi_pistolmk2_camo8
 prop_cs_dog_lead_2a
 mp1_objectivehistory3
+component_smg_mk2_camo
 mp0_businessbatpstat_int192
 prop_snow_streetlight_09
 mp1_tupstat_int104
@@ -52968,6 +53068,7 @@ mp1_dlc_apparel_used_156
 mp1_mpsv_vehicle_bs_318
 mp1_mpsv_lp0_82
 v_ilev_chopshopswitch
+component_marksmanrifle_mk2_camo_08
 mp1_arenawarspstat_int154
 clths_available_legs_4
 mp0_mpsv_price_paid_256
@@ -53066,6 +53167,7 @@ mp0_tattoo_fm_unlocks_38
 mpsv_price_paid_202
 mp1_char_kit_37_fm_unlck
 mp0_mpsv_premium_paid_64
+component_assaultrifle_mk2_camo_05
 mp1_mpsv_model_186
 prop_huge_display_01
 mp0_thrownthrough_windscreen
@@ -53207,6 +53309,7 @@ mp1_scarab3_mg50_hits
 mp1_mpsv_price_paid_340
 impexppstat_int438
 mp0_mpsv_impound_time_252
+component_heavysniper_mk2_camo_02
 hei_heist_lit_lightpendant_02
 cd_import_export_3
 sp1_buzzard_rocket_deaths
@@ -53244,6 +53347,7 @@ sf_int3_extinguisher_box
 mp1_mpsv_impound_time_221
 vw_prop_casino_cards_01
 sf_yacht_bridge_glass06
+component_bullpuprifle_mk2_camo_ind_01
 cd_vip_mc_work_23
 mp1_tupstat_int98
 volatol_mg_heldtime
@@ -54718,6 +54822,7 @@ mp1_dlc_apparel_acquired_32
 autoshgn_headshots
 v_8_framebd4
 mp1_clths_acquired_feet_7
+component_bullpuprifle_mk2_camo_09
 pounder2_miss_hits
 mp0_oppressor2_miss_hits
 nebula
@@ -55100,6 +55205,7 @@ hw1_lod_slod3_emi_proxy_01
 mp1_dlc_apparel_used_85
 mp1_mpsv_model_252
 prop_rub_wheel_02
+component_combatmg_mk2_camo_02
 v_74_fib_embb004
 mpsv_premium_paid_302
 prop_old_farm_02
@@ -55259,6 +55365,7 @@ iap_initials_6
 mp1_mpsv_flags_20
 mp0_annihlator2_bar_headshots
 ms_ep8_security_wiped_out
+component_heavysniper_mk2_camo_09
 ig_tomepsilon
 mp0_money_earn_club_income
 mp0_dlc12022pstat_int112
@@ -55826,6 +55933,7 @@ mp1_hub_prod_total_0
 lrpstat_int195
 mp1_dbase_facility_style
 tr_int1_mod_banners007
+component_assaultrifle_mk2_camo_06
 mp1_mpsv_model_138
 hei_prop_heist_safedepdoor
 mp1_mpsv_premium_paid_81
@@ -56897,6 +57005,7 @@ prop_sub_frame_01a
 mp0_cl_play_a_playlist
 bkr_defend_timer_slot5
 schwarzer
+component_carbinerifle_mk2_camo_05
 mp1_dbshgn_heldtime
 tattoo_fm_alpha_2
 mp1_dlcsmugcharpstat_int136
@@ -57035,6 +57144,7 @@ mp1_mpsv_flags_198
 sp1_tanks_destroyed_on_spree
 mp0_apapstat_int100
 hei_prop_carrier_panel_1
+component_specialcarbine_mk2_camo
 businessbatpstat_int140
 mp0_char_weap_addon_13_viewed
 damage_scar_zone_9
@@ -57838,6 +57948,7 @@ v_serv_bs_spray
 mp1_scgw_initials_3
 sp0_weap_tint_view_7
 mpsv_lp0_105
+component_combatmg_mk2_camo_ind_01
 mp0_helplocust
 mp0_rcmine_emp_deaths
 mp1_mpsv_vehicle_bs_147
@@ -58370,6 +58481,7 @@ mp1_mpsv_premium_paid_202
 prop_traffic_01d
 prop_fragtest_cnst_08
 prop_facgate_01b
+component_pumpshotgun_mk2_camo_08
 mp1_hammer_deaths
 mp1_crowbar_deaths
 prop_casino_door_01l
@@ -58470,6 +58582,7 @@ mp0_awd_parachute_jumps_50m
 mp0_imperator3_mg50_deaths
 mp1_dlc_apparel_acquired_49
 mp0_char_current_wanted
+component_revolver_mk2_camo_ind_01
 mp0_mpsv_model_245
 contact_miss_hash_16
 mp1_mpsv_impound_time_333
@@ -58737,6 +58850,7 @@ mp1_impexppstat_int479
 mp0_clths_available_props_8
 mp0_gdgtpst_deaths
 mp0_impexppstat_int301
+component_carbinerifle_mk2_camo_ind_01
 mpsv_price_paid_89
 finale_heist_prepa
 massacro2
@@ -59209,6 +59323,7 @@ xm_prop_x17_tv_scrn_05
 mp0_mpsv_flags_170
 vcm_flow_cs_oil_seen
 prop_cs_sc1_11_gate
+component_pumpshotgun_mk2_camo_06
 mp0_char_total_time_mission
 mp0_limo2_turr_hits
 mp1_toreador_torp_shots
@@ -59484,6 +59599,7 @@ cmpgl_fm_ammo_bought
 sp0_appistol_heldtime
 mpsv_flags_109
 mpsv_lp0_189
+component_pistol_mk2_camo_06
 mp1_mpsv_obtained_time_78
 mp1_tupstat_int78
 mp0_impexppstat_int521
@@ -59656,6 +59772,7 @@ h4_prop_club_emis_rig_05
 mp0_dlcsmugcharpstat_int14
 mp1_mpsv_vehicle_bs_192
 v_11_abattpens
+component_bullpuprifle_mk2_camo_08
 mp1_tattoo_fm_unlocks_43
 mp1_fixerpstat_int159
 v_73_off_st1_over
@@ -60208,6 +60325,7 @@ casinohstpstat_int7
 sp1_money_made_from_random_peds
 stt_prop_tyre_wall_0l019
 stt_prop_track_straight_bar_m
+component_specialcarbine_mk2_camo_06
 mp1_impexppstat_int630
 mpsv_lp0_220
 mp1_arenawarspstat_int334
@@ -60736,6 +60854,7 @@ oracle2
 mp1_mpsv_vehicle_bs_29
 arn_spec_box_time_ms
 dlc_apparel_used_117
+component_pumpshotgun_mk2_camo_07
 mpply_repeat_offender_2_time
 prop_phone_ing_03
 mp1_dlc12022pstat_int78
@@ -61316,6 +61435,7 @@ w_pi_sns_pistolmk2_sl_camo9
 v_61_lng_mesh_case
 mp0_mpsv_impound_time_48
 sp0_longest_cam_time_driving
+component_pumpshotgun_mk2_camo
 mp1_dagger_aquired_as_gift
 mp1_bkr_prod_stop_cout_s3_4
 mp0_wvm_flow_mission_progress
@@ -61668,6 +61788,7 @@ xs_propint3_set_waste_03_licencep
 family_scene_t1
 mp1_gclub_hits
 dlc_apparel_used_115
+component_carbinerifle_mk2_camo_04
 mp0_scarab_mg50_shots
 mp0_impexppstat_int408
 impexppstat_int697
@@ -62854,6 +62975,7 @@ mp0_mpsv_lp0_158
 mp1_dlc_apparel_acquired_169
 sp2_weap_addon_purch_2
 sp1_mg_heldtime
+component_heavysniper_mk2_camo_03
 cloudhat_stormy01_c
 mpsv_impound_time_146
 mp0_weap_fm_addon_purch4
@@ -63673,6 +63795,7 @@ v_24_lga_mesh_blinds1
 paparazzo4
 v_44_g_cor_deta
 mp1_admin_veh_rm_bs_5
+component_smg_mk2_camo_04
 sp1_headshots
 mp1_mpsv_vehicle_bs_191
 mp1_scarab_mg50_deaths
@@ -63721,6 +63844,7 @@ mp1_playing_card_collected
 xs_propintarena_speakers_01a
 csb_hao
 businessbatpstat_int247
+component_heavyrifle_camo1
 mp0_smg_fm_ammo_bought
 sf_prop_sf_s_mixer_02a
 mp1_zr3802_mg50_headshots
@@ -64185,6 +64309,7 @@ h4_prop_h4_table_01b
 xs_prop_trophy_flipper_01a
 mp1_dlcsmugcharpstat_int98
 flashlight_fm_ammo_current
+component_specialcarbine_mk2_camo_05
 cbnr_mk2_in_possession
 prop_plonk_rose
 mp1_weap_fm_addon_purch11
@@ -64408,6 +64533,7 @@ mpsv_flags_236
 mp1_su20pstat_int18
 mp0_impexppstat_int108
 mp1_su20pstat_int29
+component_pumpshotgun_mk2_camo_09
 mp1_stkybmb_kills
 apapstat_int73
 mp0_bikepstat_int84
@@ -64630,6 +64756,7 @@ mp1_mpsv_premium_paid_360
 clths_available_jbib_6
 ngpstat_int14
 vehicle_weapon_player_laser
+component_bullpuprifle_mk2_camo_07
 mp0_dlc12022pstat_int169
 char_fm_clothes_3_owned
 sp2_mkpistol_headshots
@@ -65266,6 +65393,7 @@ h3_cr_stealth_4a
 arenawarspstat_int106
 mp1_lfetime_biker_sell_underta5
 mp0_gangopspstat_int32
+component_pistol_mk2_camo_05
 sp2_firewrk_ammo_bought
 sp2_hvyshgn_kills
 ba_prop_battle_decanter_01_s
@@ -65365,6 +65493,7 @@ prop_cigar_pack_01
 mp1_tattoo_fm_viewed_4
 prop_cs_folding_chair_01
 mp0_pump_hits
+component_pumpshotgun_mk2_camo_04
 sp0_lazer_bullet_kills
 hei_v_ilev_bk_gate_pris
 mp0_dlc_apparel_used_27
@@ -65395,6 +65524,7 @@ mp1_poolcue_fm_ammo_current
 mpsv_impound_time_42
 v_ret_247shelves02
 mpsv_impound_time_136
+component_revolver_mk2_camo_04
 mp1_spcarbine_aquired_as_gift
 script_task_combat_timed
 mp0_heist_planning_done_help_0
@@ -65546,6 +65676,7 @@ scarab_mg50_hits
 mp1_su20pstat_int43
 mp0_timeinheli
 sp1_wrench_deaths
+component_marksmanrifle_mk2_camo_05
 sum_yacht_bridge_glass10
 mp0_impexppstat_int119
 winky
@@ -65743,6 +65874,7 @@ mp1_mkrifle_mk2_fm_ammo_bought
 dist_plane
 arenawarspstat_int185
 csb_oscar
+component_carbinerifle_mk2_camo_07
 mp1_lrpstat_int29
 tattoo_fm_current_45
 sr_highscore_4
@@ -66802,6 +66934,7 @@ prop_swiss_ball_01
 mp1_arena_hm_heldtime
 mp0_pilot_checkpointcount_4
 clths_acquired_props_7
+component_heavysniper_mk2_camo
 v_24_studylamps
 prop_bin_03a
 prop_dock_moor_06
@@ -67926,6 +68059,7 @@ ammo_used_smgs
 mp0_su20pstat_int110
 mp1_hammer_in_possession
 mp0_brutus_mg50_headshots
+component_assaultrifle_mk2_camo_08
 mp0_tunerpstat_int44
 mp0_mpsv_price_paid_233
 mp0_mpsv_premium_paid_72
@@ -68451,6 +68585,7 @@ mp1_casino_clothes_time
 prop_pile_dirt_07
 mp0_arn_veh_cerberus2
 mp0_businessbatpstat_int348
+component_marksmanrifle_mk2_camo_04
 mp0_businessbatpstat_int213
 mpply_threshold_reset
 prop_ch3_01_trlrdoor_l
