@@ -255,10 +255,9 @@ namespace Decompiler
 		{
 			get
 			{
-				int _instruction = (int) Instruction;
-				if (_instruction >= 109 && _instruction <= 117)
+				if (Instruction >= Instruction.iPush_n1 && Instruction <= Instruction.iPush_7)
 				{
-					return _instruction - 110;
+					return Instruction - Instruction.iPush_0;
 				}
 				throw new Exception("Not An Immediate Int Push");
 			}
@@ -268,10 +267,9 @@ namespace Decompiler
 		{
 			get
 			{
-				int _instruction = (int) Instruction;
-				if (_instruction >= 118 && _instruction <= 126)
+				if (Instruction >= Instruction.fPush_n1 && Instruction <= Instruction.fPush_7)
 				{
-					return (float) (_instruction - 119);
+					return (float) (Instruction - Instruction.fPush_0);
 				}
 				throw new Exception("Not An Immediate Float Push");
 			}
@@ -279,12 +277,12 @@ namespace Decompiler
 
 		public bool IsJumpInstruction
 		{
-			get { return (int) instruction > 84 && (int) instruction < 93; }
+			get { return Instruction >= Instruction.Jump && Instruction <= Instruction.JumpGt; }
 		}
 
 		public bool IsConditionJump
 		{
-			get { return (int) instruction > 85 && (int) instruction < 93; }
+			get { return Instruction >= Instruction.JumpFalse && Instruction <= Instruction.JumpGt; }
 		}
 
 		public bool IsWhileJump
