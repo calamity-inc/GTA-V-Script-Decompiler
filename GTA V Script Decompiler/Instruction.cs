@@ -452,6 +452,8 @@ namespace Decompiler
 		fPush_5,
 		fPush_6,
 		fPush_7,
-		Bittest
+		Bittest,
+
+		_End
 	}
 }

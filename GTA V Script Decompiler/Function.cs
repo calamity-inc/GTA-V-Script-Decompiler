@@ -862,7 +862,7 @@ namespace Decompiler
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], curoff, _consoleVer));
 							break;
 						default:
-							if (CodeBlock[Offset] <= 126) AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], curoff, _consoleVer));
+							if ((Instruction)CodeBlock[Offset] < Instruction._End) AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], curoff, _consoleVer));
 							else throw new Exception("Unexpected Opcode");
 							break;
 					}
