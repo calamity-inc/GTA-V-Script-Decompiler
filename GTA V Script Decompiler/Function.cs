@@ -762,100 +762,100 @@ namespace Decompiler
 				while (Offset < CodeBlock.Count)
 				{
 					curoff = Offset;
-					switch (CodeBlock[Offset])
+					switch ((Instruction)CodeBlock[Offset])
 					{
 						//		case 0: if (addnop) AddInstruction(curoff, new HLInstruction((byte)0, curoff)); break;
-						case 37:
+						case Instruction.iPushByte1:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(1), curoff, _consoleVer));
 							break;
-						case 38:
+						case Instruction.iPushByte2:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(2), curoff, _consoleVer));
 							break;
-						case 39:
+						case Instruction.iPushByte3:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(3), curoff, _consoleVer));
 							break;
-						case 40:
-						case 41:
+						case Instruction.iPushInt:
+						case Instruction.fPush:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(4), curoff, _consoleVer));
 							break;
-						case 42: //Because of how rockstar codes and/or conditionals, its neater to detect dups
+						case Instruction.dup: //Because of how rockstar codes and/or conditionals, its neater to detect dups
 							//and only add them if they are not used for conditionals
 							checkdupforinstruction();
 							break;
-						case 44:
+						case Instruction.Native:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(3), curoff, _consoleVer));
 							break;
-						case 45:
+						case Instruction.Enter:
 							throw new Exception("Function not expected");
-						case 46:
+						case Instruction.Return:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(2), curoff, _consoleVer));
 							break;
-						case 52:
-						case 53:
-						case 54:
-						case 55:
-						case 56:
-						case 57:
-						case 58:
-						case 59:
-						case 60:
-						case 61:
-						case 62:
-						case 64:
-						case 65:
-						case 66:
+						case Instruction.pArray1:
+						case Instruction.ArrayGet1:
+						case Instruction.ArraySet1:
+						case Instruction.pFrame1:
+						case Instruction.GetFrame1:
+						case Instruction.SetFrame1:
+						case Instruction.pStatic1:
+						case Instruction.StaticGet1:
+						case Instruction.StaticSet1:
+						case Instruction.Add1:
+						case Instruction.Mult1:
+						case Instruction.pStruct1:
+						case Instruction.GetStruct1:
+						case Instruction.SetStruct1:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(1), curoff, _consoleVer));
 							break;
-						case 67:
-						case 68:
-						case 69:
-						case 70:
-						case 71:
-						case 72:
-						case 73:
-						case 74:
-						case 75:
-						case 76:
-						case 77:
-						case 78:
-						case 79:
-						case 80:
-						case 81:
-						case 82:
-						case 83:
-						case 84:
+						case Instruction.iPushShort:
+						case Instruction.Add2:
+						case Instruction.Mult2:
+						case Instruction.pStruct2:
+						case Instruction.GetStruct2:
+						case Instruction.SetStruct2:
+						case Instruction.pArray2:
+						case Instruction.ArrayGet2:
+						case Instruction.ArraySet2:
+						case Instruction.pFrame2:
+						case Instruction.GetFrame2:
+						case Instruction.SetFrame2:
+						case Instruction.pStatic2:
+						case Instruction.StaticGet2:
+						case Instruction.StaticSet2:
+						case Instruction.pGlobal2:
+						case Instruction.GlobalGet2:
+						case Instruction.GlobalSet2:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(2), curoff, _consoleVer));
 							break;
-						case 85:
+						case Instruction.Jump:
 							checkjumpcodepath();
 							break;
-						case 86:
-						case 87:
-						case 88:
-						case 89:
-						case 90:
-						case 91:
-						case 92:
+						case Instruction.JumpFalse:
+						case Instruction.JumpNe:
+						case Instruction.JumpEq:
+						case Instruction.JumpLe:
+						case Instruction.JumpLt:
+						case Instruction.JumpGe:
+						case Instruction.JumpGt:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(2), curoff, _consoleVer));
 							break;
-						case 93:
-						case 94:
-						case 95:
-						case 96:
-						case 97:
+						case Instruction.Call:
+						case Instruction.pGlobal3:
+						case Instruction.GlobalGet3:
+						case Instruction.GlobalSet3:
+						case Instruction.iPushI24:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(3), curoff, _consoleVer));
 							break;
-						case 98:
+						case Instruction.Switch:
 							int temp = CodeBlock[Offset + 1];
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(temp*6 + 1), curoff, _consoleVer));
 							break;
-						case 101:
-						case 102:
-						case 103:
-						case 104:
+						case Instruction.StrCopy:
+						case Instruction.ItoS:
+						case Instruction.StrConCat:
+						case Instruction.StrConCatInt:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(1), curoff, _consoleVer));
 							break;
-						case 127:
+						case Instruction.Bittest:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], curoff, _consoleVer));
 							break;
 						default:
