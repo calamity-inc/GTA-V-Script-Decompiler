@@ -786,7 +786,7 @@ namespace Decompiler
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(3), curoff, _consoleVer));
 							break;
 						case 45:
-							throw new Exception("Function not exptected");
+							throw new Exception("Function not expected");
 						case 46:
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(2), curoff, _consoleVer));
 							break;
