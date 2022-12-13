@@ -179,68 +179,68 @@ namespace Decompiler
                 throw new Exception("Well this shouldnt have happened");
             }
             int temp = start1 + 5 + namelen;
-            while (CodeTable[temp] != 46)
+            while ((Instruction)CodeTable[temp] != Instruction.Return)
             {
-                switch (CodeTable[temp])
+                switch ((Instruction)CodeTable[temp])
                 {
-                    case 37: temp += 1; break;
-                    case 38: temp += 2; break;
-                    case 39: temp += 3; break;
-                    case 40:
-                    case 41: temp += 4; break;
-                    case 44: temp += 3; break;
-                    case 45: throw new Exception("Return Expected");
-                    case 46: throw new Exception("Return Expected");
-                    case 52:
-                    case 53:
-                    case 54:
-                    case 55:
-                    case 56:
-                    case 57:
-                    case 58:
-                    case 59:
-                    case 60:
-                    case 61:
-                    case 62:
-                    case 64:
-                    case 65:
-                    case 66: temp += 1; break;
-                    case 67:
-                    case 68:
-                    case 69:
-                    case 70:
-                    case 71:
-                    case 72:
-                    case 73:
-                    case 74:
-                    case 75:
-                    case 76:
-                    case 77:
-                    case 78:
-                    case 79:
-                    case 80:
-                    case 81:
-                    case 82:
-                    case 83:
-                    case 84:
-                    case 85:
-                    case 86:
-                    case 87:
-                    case 88:
-                    case 89:
-                    case 90:
-                    case 91:
-                    case 92: temp += 2; break;
-                    case 93:
-                    case 94:
-                    case 95:
-                    case 96:
-                    case 97: temp += 3; break;
-                    case 98: temp += 1 + CodeTable[temp + 1] * 6; break;
-                    case 101:
-                    case 102:
-                    case 103:
-                    case 104: temp += 1; break;
+                    case Instruction.iPushByte1: temp += 1; break;
+                    case Instruction.iPushByte2: temp += 2; break;
+                    case Instruction.iPushByte3: temp += 3; break;
+                    case Instruction.iPushInt:
+                    case Instruction.fPush: temp += 4; break;
+                    case Instruction.Native: temp += 3; break;
+                    case Instruction.Enter: throw new Exception("Return Expected");
+                    case Instruction.Return: throw new Exception("Return Expected");
+                    case Instruction.pArray1:
+                    case Instruction.ArrayGet1:
+                    case Instruction.ArraySet1:
+                    case Instruction.pFrame1:
+                    case Instruction.GetFrame1:
+                    case Instruction.SetFrame1:
+                    case Instruction.pStatic1:
+                    case Instruction.StaticGet1:
+                    case Instruction.StaticSet1:
+                    case Instruction.Add1:
+                    case Instruction.Mult1:
+                    case Instruction.pStruct1:
+                    case Instruction.GetStruct1:
+                    case Instruction.SetStruct1: temp += 1; break;
+                    case Instruction.iPushShort:
+                    case Instruction.Add2:
+                    case Instruction.Mult2:
+                    case Instruction.pStruct2:
+                    case Instruction.GetStruct2:
+                    case Instruction.SetStruct2:
+                    case Instruction.pArray2:
+                    case Instruction.ArrayGet2:
+                    case Instruction.ArraySet2:
+                    case Instruction.pFrame2:
+                    case Instruction.GetFrame2:
+                    case Instruction.SetFrame2:
+                    case Instruction.pStatic2:
+                    case Instruction.StaticGet2:
+                    case Instruction.StaticSet2:
+                    case Instruction.pGlobal2:
+                    case Instruction.GlobalGet2:
+                    case Instruction.GlobalSet2:
+                    case Instruction.Jump:
+                    case Instruction.JumpFalse:
+                    case Instruction.JumpNe:
+                    case Instruction.JumpEq:
+                    case Instruction.JumpLe:
+                    case Instruction.JumpLt:
+                    case Instruction.JumpGe:
+                    case Instruction.JumpGt: temp += 2; break;
+                    case Instruction.Call:
+                    case Instruction.pGlobal3:
+                    case Instruction.GlobalGet3:
+                    case Instruction.GlobalSet3:
+                    case Instruction.iPushI24: temp += 3; break;
+                    case Instruction.Switch: temp += 1 + CodeTable[temp + 1] * 6; break;
+                    case Instruction.StrCopy:
+                    case Instruction.ItoS:
+                    case Instruction.StrConCat:
+                    case Instruction.StrConCatInt: temp += 1; break;
                 }
                 temp += 1;
             }
@@ -258,66 +258,66 @@ namespace Decompiler
             int returnpos = -3;
             while (offset < CodeTable.Count)
             {
-                switch (CodeTable[offset])
+                switch ((Instruction)CodeTable[offset])
                 {
-                    case 37: advpos(1); break;
-                    case 38: advpos(2); break;
-                    case 39: advpos(3); break;
-                    case 40:
-                    case 41: advpos(4); break;
-                    case 44: advpos(3); break;
-                    case 45: AddFunction(offset, returnpos + 3); ; advpos(CodeTable[offset + 4] + 4); break;
-                    case 46: returnpos = offset; advpos(2); break;
-                    case 52:
-                    case 53:
-                    case 54:
-                    case 55:
-                    case 56:
-                    case 57:
-                    case 58:
-                    case 59:
-                    case 60:
-                    case 61:
-                    case 62:
-                    case 64:
-                    case 65:
-                    case 66: advpos(1); break;
-                    case 67:
-                    case 68:
-                    case 69:
-                    case 70:
-                    case 71:
-                    case 72:
-                    case 73:
-                    case 74:
-                    case 75:
-                    case 76:
-                    case 77:
-                    case 78:
-                    case 79:
-                    case 80:
-                    case 81:
-                    case 82:
-                    case 83:
-                    case 84:
-                    case 85:
-                    case 86:
-                    case 87:
-                    case 88:
-                    case 89:
-                    case 90:
-                    case 91:
-                    case 92: advpos(2); break;
-                    case 93:
-                    case 94:
-                    case 95:
-                    case 96:
-                    case 97: advpos(3); break;
-                    case 98: advpos(1 + CodeTable[offset + 1] * 6); break;
-                    case 101:
-                    case 102:
-                    case 103:
-                    case 104: advpos(1); break;
+                    case Instruction.iPushByte1: advpos(1); break;
+                    case Instruction.iPushByte2: advpos(2); break;
+                    case Instruction.iPushByte3: advpos(3); break;
+                    case Instruction.iPushInt:
+                    case Instruction.fPush: advpos(4); break;
+                    case Instruction.Native: advpos(3); break;
+                    case Instruction.Enter: AddFunction(offset, returnpos + 3); ; advpos(CodeTable[offset + 4] + 4); break;
+                    case Instruction.Return: returnpos = offset; advpos(2); break;
+                    case Instruction.pArray1:
+                    case Instruction.ArrayGet1:
+                    case Instruction.ArraySet1:
+                    case Instruction.pFrame1:
+                    case Instruction.GetFrame1:
+                    case Instruction.SetFrame1:
+                    case Instruction.pStatic1:
+                    case Instruction.StaticGet1:
+                    case Instruction.StaticSet1:
+                    case Instruction.Add1:
+                    case Instruction.Mult1:
+                    case Instruction.pStruct1:
+                    case Instruction.GetStruct1:
+                    case Instruction.SetStruct1: advpos(1); break;
+                    case Instruction.iPushShort:
+                    case Instruction.Add2:
+                    case Instruction.Mult2:
+                    case Instruction.pStruct2:
+                    case Instruction.GetStruct2:
+                    case Instruction.SetStruct2:
+                    case Instruction.pArray2:
+                    case Instruction.ArrayGet2:
+                    case Instruction.ArraySet2:
+                    case Instruction.pFrame2:
+                    case Instruction.GetFrame2:
+                    case Instruction.SetFrame2:
+                    case Instruction.pStatic2:
+                    case Instruction.StaticGet2:
+                    case Instruction.StaticSet2:
+                    case Instruction.pGlobal2:
+                    case Instruction.GlobalGet2:
+                    case Instruction.GlobalSet2:
+                    case Instruction.Jump:
+                    case Instruction.JumpFalse:
+                    case Instruction.JumpNe:
+                    case Instruction.JumpEq:
+                    case Instruction.JumpLe:
+                    case Instruction.JumpLt:
+                    case Instruction.JumpGe:
+                    case Instruction.JumpGt: advpos(2); break;
+                    case Instruction.Call:
+                    case Instruction.pGlobal3:
+                    case Instruction.GlobalGet3:
+                    case Instruction.GlobalSet3:
+                    case Instruction.iPushI24: advpos(3); break;
+                    case Instruction.Switch: advpos(1 + CodeTable[offset + 1] * 6); break;
+                    case Instruction.StrCopy:
+                    case Instruction.ItoS:
+                    case Instruction.StrConCat:
+                    case Instruction.StrConCatInt: advpos(1); break;
                 }
                 advpos(1);
             }
