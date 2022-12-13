@@ -839,6 +839,9 @@ namespace Decompiler
 							AddInstruction(curoff, new HLInstruction(CodeBlock[Offset], GetArray(2), curoff, _consoleVer));
 							break;
 						case Instruction.Call:
+						case Instruction.pStatic3:
+						case Instruction.StaticGet3:
+						case Instruction.StaticSet3:
 						case Instruction.pGlobal3:
 						case Instruction.GlobalGet3:
 						case Instruction.GlobalSet3:
@@ -1154,18 +1157,21 @@ namespace Decompiler
 					break;
 				case Instruction.pStatic1:
 				case Instruction.pStatic2:
+				case Instruction.pStatic3:
 					Stack.PushPVar(Scriptfile.Statics.GetVarName(Instructions[Offset].GetOperandsAsUInt),
 						Scriptfile.Statics.GetVarAtIndex(Instructions[Offset].GetOperandsAsUInt));
 					break;
 				// Stack.PushPointer(Scriptfile.Statics.GetVarName(Instructions[Offset].GetOperandsAsUInt)); break;
 				case Instruction.StaticGet1:
 				case Instruction.StaticGet2:
+				case Instruction.StaticGet3:
 					Stack.PushVar(Scriptfile.Statics.GetVarName(Instructions[Offset].GetOperandsAsUInt),
 						Scriptfile.Statics.GetVarAtIndex(Instructions[Offset].GetOperandsAsUInt));
 					break;
 				//Stack.Push(Scriptfile.Statics.GetVarName(Instructions[Offset].GetOperandsAsUInt), Scriptfile.Statics.GetTypeAtIndex(Instructions[Offset].GetOperandsAsUInt)); break;
 				case Instruction.StaticSet1:
 				case Instruction.StaticSet2:
+				case Instruction.StaticSet3:
 					tempstring = Stack.Op_Set(Scriptfile.Statics.GetVarName(Instructions[Offset].GetOperandsAsUInt),
 						Scriptfile.Statics.GetVarAtIndex(Instructions[Offset].GetOperandsAsUInt));
 					if (Scriptfile.Statics.GetVarAtIndex(Instructions[Offset].GetOperandsAsUInt).DataType == Stack.DataType.Bool)
@@ -1854,14 +1860,17 @@ namespace Decompiler
 						break;
 					case Instruction.pStatic1:
 					case Instruction.pStatic2:
+					case Instruction.pStatic3:
 						Stack.PushPVar("Static", Scriptfile.Statics.GetVarAtIndex(ins.GetOperandsAsUInt));
 						break;
 					case Instruction.StaticGet1:
 					case Instruction.StaticGet2:
+					case Instruction.StaticGet3:
 						Stack.PushVar("Static", Scriptfile.Statics.GetVarAtIndex(ins.GetOperandsAsUInt));
 						break;
 					case Instruction.StaticSet1:
 					case Instruction.StaticSet2:
+					case Instruction.StaticSet3:
 						if (Stack.TopType != Stack.DataType.Unk)
 						{
 							Scriptfile.Statics.SetTypeAtIndex(ins.GetOperandsAsUInt, Stack.TopType);

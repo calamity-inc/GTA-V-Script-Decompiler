@@ -416,39 +416,42 @@ namespace Decompiler
 		JumpGe, //91
 		JumpGt, //92
 		Call, //93
-		pGlobal3, //94
-		GlobalGet3, //95
-		GlobalSet3, //96
-		iPushI24, //97
-		Switch, //98
-		PushString, //99
-		GetHash, //100
-		StrCopy, //101
-		ItoS, //102
-		StrConCat, //103
-		StrConCatInt, //104
-		MemCopy, //105
-		Catch, //106	 //No handling of these as Im unsure exactly how they work
-		Throw, //107 //No script files in the game use these opcodes
-		pCall, //108
-		iPush_n1, //109
-		iPush_0, //110
-		iPush_1, //111
-		iPush_2, //112
-		iPush_3, //113
-		iPush_4, //114
-		iPush_5, //115
-		iPush_6, //116
-		iPush_7, //117
-		fPush_n1, //118
-		fPush_0, //119
-		fPush_1, //120
-		fPush_2, //121
-		fPush_3, //122
-		fPush_4, //123
-		fPush_5, //124
-		fPush_6, //125
-		fPush_7, //126
+		pStatic3,
+		StaticGet3,
+		StaticSet3,
+		pGlobal3, // 2802: 94 -> 97
+		GlobalGet3,
+		GlobalSet3,
+		iPushI24,
+		Switch,
+		PushString,
+		GetHash,
+		StrCopy,
+		ItoS,
+		StrConCat,
+		StrConCatInt,
+		MemCopy,
+		Catch, //No handling of these as Im unsure exactly how they work
+		Throw, //No script files in the game use these opcodes
+		pCall,
+		iPush_n1,
+		iPush_0,
+		iPush_1,
+		iPush_2,
+		iPush_3,
+		iPush_4,
+		iPush_5,
+		iPush_6,
+		iPush_7,
+		fPush_n1,
+		fPush_0,
+		fPush_1,
+		fPush_2,
+		fPush_3,
+		fPush_4,
+		fPush_5,
+		fPush_6,
+		fPush_7,
 		Bittest
 	}
 }

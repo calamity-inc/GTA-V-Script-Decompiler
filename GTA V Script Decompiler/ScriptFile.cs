@@ -232,6 +232,9 @@ namespace Decompiler
                     case Instruction.JumpGe:
                     case Instruction.JumpGt: temp += 2; break;
                     case Instruction.Call:
+                    case Instruction.pStatic3:
+                    case Instruction.StaticGet3:
+                    case Instruction.StaticSet3:
                     case Instruction.pGlobal3:
                     case Instruction.GlobalGet3:
                     case Instruction.GlobalSet3:
@@ -309,6 +312,9 @@ namespace Decompiler
                     case Instruction.JumpGe:
                     case Instruction.JumpGt: advpos(2); break;
                     case Instruction.Call:
+                    case Instruction.pStatic3:
+                    case Instruction.StaticGet3:
+                    case Instruction.StaticSet3:
                     case Instruction.pGlobal3:
                     case Instruction.GlobalGet3:
                     case Instruction.GlobalSet3:
