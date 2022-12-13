@@ -598,7 +598,7 @@ namespace Decompiler
 			//Temporary stage
 			breakloc = defaultloc;
 			usedefault = true;
-			bool allreturns = true;
+			//bool allreturns = true;
 
 			//check if case last instruction is a jump to default location, if so default location is a break;
 			//if not break location is where last instrcution jumps to
@@ -616,8 +616,8 @@ namespace Decompiler
 				temp = Instructions[index];
 				if (temp.Instruction != Instruction.Jump)
 				{
-					if (temp.Instruction != Instruction.Return)
-						allreturns = false;
+					//if (temp.Instruction != Instruction.Return)
+					//	allreturns = false;
 					continue;
 				}
 				if (temp.GetJumpOffset == defaultloc)
