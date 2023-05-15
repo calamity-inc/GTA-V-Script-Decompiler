@@ -243,6 +243,7 @@ dlc_mp_stunt_m_phead_15_0
 arena_clothes_apocalypse_military_top_12
 mp0_tupstat_int94
 dlc_mp_arena_m_jbib_10_12
+turn_on_race_inactivity_reduced_rewards
 dlc_mp_fixer_f_phead_1_5
 ex_p_mp_door_apart_doorbrown01
 dlc_mp_sum_m_jbib_7_20
@@ -421,6 +422,7 @@ dlc_mp_biker_f_jbib_16_3
 mp0_impexppstat_int668
 gb_call_armored_cognoscenti_cost
 dlc_mp_stunt_f_jbib_5_0
+reward_weapon_heavypistol
 v_ret_ta_box
 dlc_mp_gr_m_torso_23_5
 ob_franklin_wine
@@ -550,6 +552,7 @@ mp1_mpsv_lp0_196
 event_login_dlc22022_manor_sunglasses
 v_16_ironwork
 mp1_casino_apt_decoration_5
+action_audio_rifle
 aw_sale_price_deviant
 dlc_mp_gr_f_torso_9_19
 femalehats_securoserv_cap
@@ -1399,6 +1402,7 @@ prop_skate_rail
 dlc_mp_smug_m_phead_8_20
 mp0_fm_act_ph4
 s_f_y_hooker_03
+reward_health_variable
 dlc_mp_biker_f_hand_3_13
 prop_flattruck_01c
 mp1_mpsv_vehicle_bs_239
@@ -1567,6 +1571,7 @@ dlc_mp_ie_f_berd_3_4
 dlc_mp_busi_m_teeth4_13
 cloudhat_nimbus_c
 mp0_toreador_torp_enemy_kills
+reward_weapon_pumpshotgun_mk2
 mp1_mpsv_lp0_94
 v_24_lgb_mesh_sideboard_em
 dlc_mp_ie_f_phead_2_0
@@ -1815,6 +1820,7 @@ femaleuppers_pink_long_suit
 dlc_mp_gr_f_special_16_18
 xp_tunable_ctf_xp_reward_multiplier
 dlc_mp_arena_m_berd_1_1
+pickup_portable_crate_unfixed_inairvehicle_with_passengers_upright
 mp0_mpsv_lp0_182
 v_ilev_csr_lod_normal
 ch_trade_price_everon
@@ -1833,6 +1839,7 @@ mp0_sniperrfl_enemy_kills
 fixer_security_contract_difficulty_weighting
 dlc_mp_sum_f_legs_5_9
 dlc_mp_vwd_f_decl_1_1
+reward_weapon_mg
 mp0_xmas_norm_clothes_lowers
 prop_dock_crane_02_ld
 sp1_hatchet_kills
@@ -1853,6 +1860,7 @@ mp1_mpsv_model_227
 impexp_uppers_multicolor_leaves_guffy_puffer
 dlc_mp_arena_f_phead_1_0
 apa_p_h_acc_artwalls_04
+reward_ammo_firework
 vehicle_stealth_mode
 mp0_savestra_mg_hits
 male_uppers_white_trickster_open_varsity
@@ -2090,6 +2098,7 @@ individual_clothing_sale_hash_labels_202
 mp0_tupstat_int63
 gr_hats_peach_camo_beret
 v_31a_tun_puds
+reward_health_enter_vehicle
 ciarena_playlist_type_26
 mp1_arn_w_arcade_race
 prop_air_hoc_paddle_01
@@ -2554,6 +2563,7 @@ dlc_mp_h3_f_special_11_8
 mp1_lazer_bullet_heldtime
 biker_disable_resupply_signal_flare_0
 mp1_dlcsmugcharpstat_int159
+action_audio_vehicle_handgun
 fm_content_drug_vehicle
 igriefwindowtime
 ih_trade_price_longfin
@@ -3251,6 +3261,7 @@ mp0_money_spent_rockstar_award
 mp0_dlcsmugcharpstat_int238
 fixer_tiger_ergonomic
 exec1_sell_seattacked_tug_speed
+action_audio_vehicle_smg
 dlc_mp_x17_f_special_2_0
 tuner_beige_knit_sneakers
 mp1_mchpist_kills
@@ -4040,6 +4051,7 @@ dlc_mp_exec_m_jbib_14_6
 mp1_dlcsmugcharpstat_int100
 individual_clothing_sale_hash_labels_268
 relay_invite_weight
+reward_ammo_pipebomb
 sp2_sp_money_spent_on_clothes
 mp1_casinopstat_int157
 vw_prop_vw_wallart_92a
@@ -4247,6 +4259,7 @@ prop_fncwood_09c
 mp1_tunerpstat_int46
 acid_lab_purchase_supplies_cost_per_segment
 xm_prop_base_silo_platform_01d
+reward_weapon_combatmg_mk2
 mp0_mpsv_flags_102
 vw_prop_cas_card_spd_king
 mp1_arenawarspstat_int191
@@ -5348,6 +5361,7 @@ v_res_m_armoirmove
 prop_wall_light_09b
 exec_block_flow_calls_in_office
 v_19_vanillasigneon
+reward_weapon_militaryrifle
 sp2_grenade_ammo_bought
 dlc_mp_gr_m_jbib_4_18
 dlc_mp_busi_m_accs3_5
@@ -6530,6 +6544,7 @@ enable_clothing_morph_0_ecola
 v_ilev_ss_door8
 w_ex_vehiclemissile_2
 mp0_arn_veh_cerberus3
+reward_ammo_proxmine
 mp1_damage_scar_forceframe_1
 ie_draw_4
 dlc_mp_arena_f_outfit_alien_c_7
@@ -7430,6 +7445,7 @@ maleuppers_black_sweater_shirt
 dlc_mp_x17_m_feet_0_4
 mp1_casinohstpstat_int41
 disable_bad_sport_dead_drop
+action_audio_money_purse
 impexp_lowers_charcoal_low_crotch_pants
 dlc_mp_ie_f_jbib_1_5
 xm22_black_camo_roses_slab_canvas
@@ -7803,6 +7819,7 @@ mp1_is_char_a_boss
 tr_prop_tr_planning_board_01a
 mp1_stromberg_miss_heldtime
 bb_male_and_female_uppers_cool_gradient_shortsleeve
+reward_ammo_fertilizercan
 female_uppers_white_tucked_tee
 mp1_impexppstat_int230
 mp0_hammer_heldtime
@@ -8002,6 +8019,7 @@ mp1_mpsv_lp0_186
 dlc_mp_stunt_f_phead_8_8
 v_74_vfx_it3_003
 prop_tshirt_box_01
+action_audio_melee
 mp0_warehouse_crates55
 mp0_discount_hsw_mod3
 gr_lowers_fall_cargo_shorts
@@ -8551,6 +8569,7 @@ mp1_impexppstat_int644
 mp1_crbnrifletracerammobought
 dlc_mp_heist_f_berd_14_14
 prop_ld_dstplanter_02
+threshold_race_inactivity_reduced_rewards_minimum_activity_required
 ih_sub_base_turkey_flag_renovation
 dlc_mp_x17_m_peyes_0_8
 smug_male_and_female_masks_contrast_camo_robo
@@ -9025,6 +9044,7 @@ lottery_ticket_cost
 csx_seabed_rock3_
 mp1_arenawarspstat_int102
 prop_shots_glass_cs
+action_audio_vehicle_sawnoff
 mp0_revolver_kills
 sf_mpapyacht_2beds_hallpart
 dlc_mp_bh_f_jbib_0_19
@@ -9314,6 +9334,7 @@ mp1_money_earn_sell_contraband
 male_and_female_masks_khaki_toggle_ski
 dlc_mp_busi_m_outfit_21
 ar_prop_ar_tube_xxs
+action_audio_vehicle_projectile
 opt_out_individual_clothing_sale_hash_labels_83
 dlc_mp_ind_m_outfit_3
 male_and_female_masks_benders_tshirt_mask
@@ -9439,6 +9460,7 @@ mp0_mpsv_vehicle_bs_8
 dlc_mp_vwd_m_legs_0_0
 mp0_businessbatpstat_int175
 mp1_ch_arc_cab_display_slot12
+reward_ammo_ceramicpistol
 xm3_mpchristmas3_additions_hd
 mp0_su20pstat_int25
 mp1_fixerpstat_int182
@@ -10613,6 +10635,7 @@ dlc_mp_h4_f_peyes_0_11
 prop_gaffer_arm_bind_cut
 mp0_dlc_apparel_acquired_104
 prop_elecbox_01a
+action_audio_vehicle_health
 v_24_hal_over_shadow
 prop_tram_pole_roadside
 dlc_mp_bh_m_jbib_9_0
@@ -12028,6 +12051,7 @@ dlc_mp_gr_m_phead_6_8
 dlc_mp_ie_f_jbib_4_2
 handler
 luxe2_geometric_design
+reward_weapon_hammer
 dlc_mp_gr_m_torso_8_1
 mp0_admin_veh_gv_bs_1
 female_uppers_black_broker_print_varsity
@@ -12534,6 +12558,7 @@ h2_male_and_female_uppers_ice_plate_carrier
 ch_arcade_floor_5_base_price
 impexp_male_uppers_illusion_manor_tshirt
 tr_prop_tr_usb_drive_02a
+action_audio_money_variable
 launchposix_landstalker2
 ms_ass1_mirror_time
 pilot_school_player_kit_navy_chute_bag
@@ -12610,6 +12635,7 @@ csb_fos_rep
 mp1_mpsv_obtained_time_107
 prop_bush_ornament_04
 prop_cs_beer_bot_40oz_03
+reward_weapon_bullpupshotgun
 apa_mp_h_bed_double_09
 hei_prop_drug_statue_box_01
 dlc_mp_h4_m_special_2_5
@@ -14562,6 +14588,7 @@ mp1_crpilotschool
 mp1_mpsv_obtained_time_66
 mp0_mpsv_price_paid_253
 mp1_mission_name
+reward_weapon_assaultsmg
 dlc_mp_gr_f_special_1_2
 weapon_explosion
 mp0_businessbatpstat_int341
@@ -14839,6 +14866,7 @@ a_f_y_bevhills_03
 ms_fbi1_unmarked
 h4_prop_palmeto_sap_ab
 tr_prop_meth_tray_02a
+reward_ammo_sawnoffshotgun
 dlc_mp_stunt_m_berd_0_1
 dlc_mp_smug_f_phead_1_5
 dlc_mp_sum_f_special_5_8
@@ -15237,6 +15265,7 @@ property_high_apt_3_expenditure_modifier
 dlc_mp_sum2_f_berd_10_14
 mp0_su20pstat_int2
 dlc_mp_biker_f_feet_1_4
+reward_weapon_firework
 rebate_vehicle_14
 apa_mp_apa_yacht_jacuzzi_cam
 bkr_prop_biker_jump_lb
@@ -15296,6 +15325,7 @@ fl_co_pro1
 mp0_bikepstat_int90
 dlc_mp_fixer_f_peyes_1_4
 v_44_cablemesh3833165_tstd027
+reward_ammo_assaultsmg
 dlc_red_sharp_fitted
 g_m_m_prisoners_01
 dlc_mp_h3_m_jbib_2_6
@@ -15467,6 +15497,7 @@ dlc_mp_gr_m_torso_2_6
 dlc_mp_heist_m_jbib_14_1
 am_mp_solomon_office
 mp1_mpsv_premium_paid_263
+reward_weapon_navyrevolver
 mp0_char_fm_weap_addon_2_equip
 vw_prop_cas_card_dia_queen
 gr_yacht_search_yacht_search_weighting
@@ -16888,6 +16919,7 @@ dlc_mp_sum_m_jbib_4_3
 dlc_mp_lts_f_hand_8_0
 sp0_asltrifle_hits
 xs_propint3_waste_01_rim
+reward_weapon_gadgetpistol
 turn_on_halloween_anims
 mp0_dlc_apparel_acquired_226
 rebate_vehicle_46
@@ -17024,6 +17056,7 @@ luxe1_female_accessories_black_gold_diamond_drops
 mp0_mpsv_model_314
 tuner_street_4th_place_xp
 weaponaddon_carbinerrifle_railcover_expenditure_tunable
+reward_weapon_smg
 prop_air_cargo_04a
 launchposix_verus
 tr_prop_meth_bigbag_03a
@@ -17243,6 +17276,7 @@ sat_done_bounty
 v_74_it1_post_ceil
 dlc_mp_lts_m_hand_5_21
 w_sg_pumpshotgun_luxe
+reward_weapon_advancedrifle
 mp0_tunerpstat_bool7
 mp1_shotgexplosivecurrent
 mp0_casino_apt_decoration_8
@@ -17351,6 +17385,7 @@ ih_sub_base_malta_flag_purchase
 running_back_remix_5_new_vs
 xs_prop_lplate_wall_01b_wl
 mp1_arenawarspstat_int321
+reward_ammo_minigun
 dlc_mp_fixer_f_legs_4_2
 dlc_mp_low2_f_jbib_7_1
 mp0_impexppstat_int524
@@ -17750,6 +17785,7 @@ hipster_dress
 dlc_mp_tuner_f_decl_11_0
 dlc_mp_fixer_f_jbib_8_2
 pvc_daily_additions
+reward_ammo_dbshotgun
 male_masks_group_modifier
 h2_male_and_female_shoes_black_and_red_rubberized
 tattoo_mp_fm_22_expenditure_tunable
@@ -17886,6 +17922,7 @@ mp0_arn_l_pass_the_bomb
 dlc_mp_biker_m_hand_5_24
 xm22_magenta_cat_eye_shades
 dlc_mp_gr_f_jbib_24_3
+reward_ammo_doubleaction
 h4_prop_h4_fence_seg_x1_01a
 dlc_mp_h4_f_special_2_2
 sf_int3_sounder_wall
@@ -17948,6 +17985,7 @@ component_smg_varmod_luxe
 mp1_pilot_lastelapsedtime_6
 smug_male_and_female_hat_black_peaked_cap
 dlc_mp_h3_m_berd_14_13
+reward_weapon_machinepistol
 nightclubincomeuptopop75
 dlc_mp_sum2_f_jbib_12_2
 mp0_cmbshgn_in_possession
@@ -18477,6 +18515,7 @@ dlc_mp_stunt_m_phead_7_5
 v_res_fh_tableplace
 dlc_mp_biker_m_legs_5_3
 mp0_nokota_miss_shots
+reward_weapon_pistol_mk2
 prop_amb_beer_bottle
 ciarena_playlist_theme_arena_5
 dlc_mp_vwd_f_legs_2_8
@@ -18568,6 +18607,7 @@ dlc_mp_h4_m_peyes_2_7
 sp2_number_stolen_helis
 fl_co_fina
 weaponaddon_dlcheavyrifle_scope_expenditure_tunable
+reward_weapon_smg_mk2
 mp0_tunerpstat_int30
 dlc_mp_arena_f_jbib_9_5
 prop_sacktruck_02b
@@ -18643,6 +18683,7 @@ dlc_mp_beach_m_feet0_11
 dlc_mp_fixer_m_legs_5_4
 v_19_payboothtrim
 gb_protectionracket_rp_reward_winner
+action_audio_money_med_bag
 collectables_snowmen
 mp1_mpsv_impound_time_12
 ch_prop_ch_moneybag_01a
@@ -19174,6 +19215,7 @@ gr_prop_gr_target_small_03a
 prop_cattlecrush
 accessories_glow_necklace_8
 mp1_spcarbine_shots
+action_padshake_incar
 exec_vip2_disable_xls
 h4_mp_h_acc_candles_02
 mp1_lrpstat_int14
@@ -19268,6 +19310,7 @@ prop_fib_morg_plr01
 dlc_mp_exec_f_jbib_11_2
 mp0_favorite_veh_time_current
 mp1_heist_mission_depth_lv_7
+reward_weapon_appistol
 mp0_tupstat_int35
 individual_tattoo_sale_hash_labels_96
 mp0_casinopstat_int66
@@ -19543,6 +19586,7 @@ gr_uppers_wine_sleeveless_shirt
 reh_int4_style_1_decal
 exec_disable_buy_assassinate_cinema
 dlc_mp_gr_f_jbib_9_8
+reward_ammo_compactrifle
 dlc_mp_stunt_f_special_0_1
 mp1_businessbatpstat_int27
 mp1_mpsv_lp0_153
@@ -19853,6 +19897,7 @@ _profile_setting_214
 dlc_mp_val_f_accs1_0
 prop_coral_flat_01
 mp1_axefuryinitials_0
+reward_weapon_dagger
 dlc_mp_gr_f_torso_0_10
 prop_roofvent_10b
 stunt_female_helmets_silver_retro_bubble
@@ -20055,6 +20100,7 @@ mp1_bikepstat_int79
 mp0_impexppstat_int456
 deprecated_script_task_sideways_dive
 mp1_stromberg_miss_kills
+reward_weapon_proxmine
 dlc_mp_h4_m_pleft_wrist_0_2
 dlc_mp_gr_f_special_12_18
 dlc_mp_heist_m_special_6_2
@@ -20486,6 +20532,7 @@ exec_safe_value_of_each_level
 mp1_dm_highest_killstreak
 mp0_gangopspstat_int97
 mp0_fixerpstat_int58
+reward_weapon_minismg
 carmod_unlock_suspension_l2_expenditure_tunable
 v_ret_gassweets
 mp0_mpsv_vehicle_bs_171
@@ -20545,6 +20592,7 @@ dlc_hipster_clothing_male_sunset_docks
 payphone_taxi_weighting
 prop_sh_wine_glass
 vw_prop_vw_wallart_147a
+reward_weapon_assaultshotgun
 sp2_asltrifle_kills
 mp1_businessbatpstat_int157
 mp1_cerpst_headshots
@@ -21281,6 +21329,7 @@ vc_purple_camo_sn_sweater
 halloween_2015_fleshy_demon
 coquette3
 mp0_mpsv_impound_time_310
+reward_weapon_assaultrifle_mk2
 tr_int1_mod_spray010
 root_id_hash_humane_labs_emp_v2
 dlc_mp_arena_f_legs_8_5
@@ -21309,6 +21358,7 @@ dlc_mp_arena_f_berd_7_2
 vehicle_weapon_hunter_barrage
 mp1_arenawarspstat_int76
 mp1_dlcsmugcharpstat_int47
+reward_weapon_specialcarbine
 mp0_toreador_mg_enemy_kills
 biker_female_uppers_mocha_torn_tee
 sp0_lazer_rocket_heldtime
@@ -21798,6 +21848,7 @@ v_44_shell_kitchen
 gb_disable_challenge_spectate_at_start
 dlc_mp_gr_m_berd_4_22
 dlc_mp_arena_f_jbib_5_8
+reward_weapon_doubleaction
 dlc_mp_vwd_f_jbib_12_8
 prop_beachflag_le
 v_res_mchalkbrd
@@ -22048,6 +22099,7 @@ prop_tornado_wheel
 vc_casino_disable_slots_evacuator
 mp0_crotchinitials_6
 xs_prop_arena_roulette
+reward_weapon_bat
 mp0_admin_veh_gv_bs_5
 mp1_arenawarspstat_int110
 cloudhat_nimbus_b
@@ -22173,6 +22225,7 @@ dlc_mp_sum2_m_legs_3_13
 ch_prop_arcade_claw_plush_01a
 hei_prop_zip_tie_straight
 v_res_tre_mixer
+reward_weapon_gusenberg
 mp1_dlc_apparel_used_139
 playerkit_platinum_pistol_expenditure_tunable
 dlc_mp_low2_m_jbib_5_12
@@ -22699,6 +22752,7 @@ discount_male_feet_gold_sports_shoes
 bb_male_and_female_uppers_red_cardigan
 dlc_mp_sum2_m_jbib_11_5
 mp1_objectivehistory1
+reward_ammo_pistol
 annihilator
 vw_prop_vw_wallart_40a
 dlc_mp_h4_f_torso_10_5
@@ -23087,6 +23141,7 @@ mp1_gangopspstat_int101
 makeup_unlocks_nude_expenditure_tunable
 xs_combined2_dyst_build_01a_09
 dlc_mp_h4_m_hand_2_11
+reward_weapon_compactrifle
 mp1_ie_wh_owned_vehicle_2
 fixer_event_reward_f_9
 dlc_mp_gr_m_jbib_13_14
@@ -23102,6 +23157,7 @@ dlc_mp_lts_m_berd_1_3
 as_prop_as_target_grid
 dlc_mp_heist_m_torso_41_1
 mp1_tattoo_fm_unlocks_3
+reward_weapon_heavysniper_mk2
 rebate_vehicle_45
 mp1_admin_clothes_gv_bs_5
 dlc_mp_h3_m_berd_9_24
@@ -23956,6 +24012,7 @@ dlc_mp_gr_m_special_0_15
 prop_glf_spreader
 fixer_short_trip_hard_multiplier
 biker_disable_weapon_of_choice_roaming
+pickup_weapon_militaryrifle
 dlc_mp_gr_m_phead_0_11
 habanero
 dlc_mp_sum2_f_feet_3_15
@@ -24141,6 +24198,7 @@ tattoos_xmas14_time_to_die
 luxury_showcase_vehicle_2_colour_5
 mp0_awd_t_bone
 mp0_awd_aquaape
+reward_ammo_tacticalrifle
 a_m_y_genstreet_02
 mp0_tattoo_fm_viewed_30
 mp1_lowrider_help_bitset
@@ -24232,6 +24290,7 @@ apartment_male_uppers_teal_silk_pyjamas
 mp1_fixerpstat_int74
 des_frenchdoors_rootb
 h2_male_and_female_uppers_chocolate_tactical_blouson
+reward_stat_weapon
 des_traincrash_root2
 biker_global_signal_easy
 dlc_female_tattoos_money_rose
@@ -25626,6 +25685,7 @@ smug_male_and_female_uppers_blue_hit_and_run_tank
 dlc_mp_arena_f_jbib_3_1
 v_med_oscillator4
 mp0_impexppstat_int663
+reward_stat_health
 dlc_mp_h4_f_teeth_13_0
 mp0_dlc_apparel_used_249
 sf_int1_ledpanel016
@@ -26694,6 +26754,7 @@ dlc_mp_heist_f_jbib_6_2
 dlc_mp_vwd_m_legs_3_16
 mp1_casinohstpstat_int97
 hei_heist_kit_coffeemachine_01
+reward_weapon_heavysniper
 mp0_tattoo_fm_current_6
 dlc_mp_biker_m_phead_8_8
 tattoo_mp_fm_05_expenditure_tunable
@@ -27309,6 +27370,7 @@ mp0_walking_style
 individual_vehicle_sale_hash_labels_71
 turn_on_valentine_weapon
 component_pumpshotgun_mk2_clip_explosive
+reward_weapon_ceramicpistol
 dlc_mp_biker_f_special_10_1
 prop_pile_dirt_02
 mp1_mpsv_price_paid_73
@@ -28487,6 +28549,7 @@ enable_vehicle_novak
 mp1_char_kit_8_fm_equip
 dlc_mp_smug_m_berd_6_4
 luxe1_male_shoes_black_studded_sneakers
+reward_weapon_grenadelauncher
 sum_female_magenta_slacks
 individual_clothing_sale_hash_labels_33
 dlc_mp_hips_m_feet0_10
@@ -28832,6 +28895,7 @@ fm_corona_playlist_root_content_id_5
 dlc_mp_sum2_f_feet_2_0
 dlc_mp_tuner_m_berd_2_2
 ex_prop_crate_art_bc
+reward_ammo_smokegrenade
 dlc_mp_h4_m_pright_wrist_0_7
 dlc_mp_sum2_m_feet_1_7
 dlc_mp_stunt_f_jbib_2_2
@@ -31330,6 +31394,7 @@ smuggler_tattoos_male_and_female_skull_compass
 sum_prop_track_ac_bend_bar_180d
 dlc_mp_gr_f_berd_2_2
 prop_fnccorgm_06a
+reward_ammo_combatmg
 mp1_ch_getaway_mod_liv2
 ch_prop_arcade_jukebox_01a
 dlc_mp_gr_m_berd_0_3
@@ -32192,6 +32257,7 @@ mp1_shopfm_gun_09_goh
 sum_yacht_bridge_glass17
 vw_prop_cas_card_dia_06
 dlc_mp_stunt_f_jbib_4_4
+reward_weapon_carbinerifle_mk2
 mp0_bkr_prod_stop_cout_s1_3
 mp0_gold_boolchar_1
 vw_prop_vw_wallart_12a
@@ -32224,6 +32290,7 @@ prop_mp_halo_point_med
 arena_clothes_space_goggles_15
 mp1_qub3d_initials_2
 launchposix_glendale2
+reward_ammo_grenade
 akula
 openwheel2
 prop_beach_towel_01
@@ -32441,6 +32508,7 @@ sp1_crowbar_hits
 mp1_molotok_miss_kills
 mp0_helpemerus
 ms_jh1_perfect_pic
+reward_ammo_bullet_mp
 biker_counterfeit_cash_mission_difficulty
 prop_workwall_01
 xm3_prop_xm3_drug_pkg_01a
@@ -33827,6 +33895,7 @@ getawaybikemodsprayprice
 test_tree_forest_trunk_01
 sf_mpapyacht_brdg_detail
 dlc_mp_gr_f_torso_34_4
+reward_ammo_appistol
 femaleuppers_blue_continental_open_jacket
 xm22_gun_van_location_enabled_27
 dlc_mp_x17_m_jbib_6_16
@@ -33893,6 +33962,7 @@ exec_disable_purchase_warehouse_5
 biker_resupply_intimidation_horn
 mp0_issi5_mg50_kills
 dlc_mp_low_m_jbib_8_2
+reward_ammo_emplauncher
 ciarena_playlist_order_arena_hot_bomb_iii
 dlc_mp_hal_f_berd_9_0
 prop_fnclink_02g
@@ -34006,6 +34076,7 @@ ih_sub_base_color_14_purchase
 v_24_bedroomshell
 v_ind_coo_heed
 sat_played_playlist
+reward_ammo_bullpuprifle
 smug_steal_bomb_roof_mission_duration
 dlc_mp_h3_m_hand_3_9
 prop_mb_ordnance_02
@@ -34231,6 +34302,7 @@ playerkit_gold_pistol_expenditure_tunable
 dlc_mp_heist_f_torso_62_0
 dlc_mp_smug_m_special_8_5
 dlc_mp_low2_m_teeth_3_1
+reward_money_variable
 gb_protectionracket_cooldown
 re_prison
 mp1_starling_mg_deaths
@@ -34637,6 +34709,7 @@ p_parachute_s
 biker_clubhouse_club_signage_10
 dlc_mp_busi2_m_accs1_14
 car_mods_chrome_offroad_wheels
+reward_weapon_emplauncher
 dlc_mp_hips_f_accs1_1
 dlc_mp_h4_m_berd_0_7
 mp0_adversary_promo_help1
@@ -34745,6 +34818,7 @@ finalec2
 mp1_mpsv_vehicle_bs_51
 dlc_mp_ind_f_special_0_1
 discount_male_uppers_lc_salamanders_away_top
+reward_weapon_microsmg
 impexp_steal_medium_accuracy
 dlc_mp_busi_m_accs3_15
 dlc_mp_sum_m_jbib_14_5
@@ -35716,6 +35790,7 @@ minigame_xp_group_modifier
 dlc_mp_biker_f_special_5_5
 dlc_mp_gr_m_torso_20_4
 mp1_impexppstat_int352
+reward_vehicle_fix
 prop_rock_3_b
 mp0_streetleginitials_8
 mp1_mpsv_price_paid_298
@@ -36195,6 +36270,7 @@ dlc_mp_exec_m_legs_0_5
 biker_weed_capacity
 lts_f_the_masked_night
 mp0_jubilee_mg_enemy_kills
+action_audio_paper_bag
 mp1_impexppstat_int322
 exec_buy_stealtransporter_easy_wanted_cap
 bkr_prop_printmachine_4rollerpress
@@ -36302,6 +36378,7 @@ dlc_mp_tuner_f_jbib_7_9
 xm22_white_lightning_denim
 dlc_mp_h3_f_special_9_8
 gr_uppers_blue_combat_shirt
+reward_ammo_assaultrifle
 dlc_mp_tuner_f_special_0_19
 ms_mic3_headshots
 arena_clothes_scifi_morphsuit_5
@@ -36492,6 +36569,7 @@ stunt_female_hats_nagasaki_moto_cap
 serrano
 mp1_h4cnf_weapons
 ch_difficulty_hard
+pickup_weapon_candycane
 biker_disable_weed_equipment_upgrade
 dlc_mp_sum_m_jbib_16_16
 dlc_mp_tuner_f_hand_0_1
@@ -36584,6 +36662,7 @@ v_74_it3_hall_mnds
 dlc_mp_vwd_f_peyes_1_9
 mp1_wrench_hits
 dlc_mp_ie_m_jbib_3_7
+action_audio_rpg
 dlc_mp_gr_m_jbib_0_1
 sf_int1_gold_disc003
 mp1_fixerpstat_int35
@@ -36930,6 +37009,7 @@ vw_prop_art_pug_01a
 mp0_gangopspstat_int86
 new_xm22_vehicle_text
 miss_switch_trevor1
+action_audio_security_case
 dlc_mp_vwd_f_jbib_6_15
 prop_buck_spade_08
 dlc_mp_arena_f_legs_4_8
@@ -37839,6 +37919,7 @@ sp0_spcarbine_hits
 prop_rub_cage01d
 mp0_mpsv_vehicle_bs_95
 impexp_uppers_gray_camo_open_parka
+reward_ammo_precisionrifle
 dlc_mp_biker_f_special_1_6
 dlc_mp_arena_m_legs_0_16
 sp2_pump_headshots
@@ -38836,6 +38917,7 @@ dlc_mp_h3_m_hand_0_3
 mp1_mpsv_impound_time_229
 mp0_pump_mk2_hits
 dlc_mp_gr_f_legs_1_19
+action_audio_health_standard
 mp0_mpsv_model_359
 dlc_mp_bh_f_jbib_2_7
 component_ceramicpistol_clip_01
@@ -39285,6 +39367,7 @@ dlc_mp_tuner_f_phead_1_4
 stt_prop_tyre_wall_0r07
 dlc_mp_stunt_m_jbib_9_2
 dlc_mp_arena_f_hand_1_1
+reward_weapon_molotov
 sr_mp_spec_tubes_neonrd
 dlc_mp_x17_f_jbib_5_4
 debug_launcher
@@ -39323,6 +39406,7 @@ malepants_white_tracksuit_pants
 sum_offroad_wheel_ridge_climbere
 mp0_casinohstpstat_bool4
 individual_tattoo_sale_hash_labels_59
+reward_ammo_smg
 mp0_mkrifle_enemy_kills
 tuner_autoshop_sale_style_americana
 mp1_awd_fm_dm_stolenkill
@@ -40544,6 +40628,7 @@ discount_female_feet_purple_round_toed
 gr_female_uppers_fall_sleeveless_crop
 mp1_awd_fm_dm_3killsameguy
 dlc_mp_heist_f_torso_63_0
+reward_ammo_mg
 v_ret_247_bread1
 xm_base_cia_servertall_01
 mp1_flaregun_kills
@@ -40614,6 +40699,7 @@ mp0_fixerpstat_int71
 paradise
 mp0_pilot_checkpointcount_6
 _profile_setting_7
+reward_weapon_stone_hatchet
 luxe1_female_uppers_classic_dix_t_shirt
 mp1_apapstat_int51
 dlc_mp_fixer_f_phead_4_24
@@ -40724,6 +40810,7 @@ csb_labrat
 forklift
 dlc_mp_pilot_m_hand_8_8
 smug_male_and_female_uppers_red_guffy_shortsleeve
+pickup_weapon_heavyrifle
 dlc_mp_biker_m_special_5_21
 xm22_green_sloped_slab_forwards
 mp0_give_firework_launch_ammo
@@ -40905,6 +40992,7 @@ prop_hat_box_04
 mp1_apapstat_int28
 discount_female_feet_orange_runners
 corona_clone_head_blend_time
+reward_weapon_combatpistol
 dlc_mp_biker_f_jbib_0_1
 iindividual_weapon_sale_hash_labels_3
 dlc_mp_ar_m_jbib_3_6
@@ -41313,6 +41401,7 @@ mp1_char_kit_fm_purchase29
 ch_prop_ch_schedule_01a
 mp1_mpsv_vehicle_bs_350
 fm_corona_playlist_root_content_id_25_professional_13
+reward_weapon_musket
 mp0_mpsv_price_paid_7
 mp0_akula_mini_hits
 fm_corona_playlist_vecotr_z_id_9
@@ -41466,6 +41555,7 @@ mp0_impexppstat_int199
 dlc_mp_low2_m_jbib_5_5
 xm_prop_x17_l_glass_02
 mp1_fimess_veh_jubilee
+reward_weapon_raycarbine
 discount_male_hats_ranch_blue_army_cap
 mp0_char_fm_weap_addon_4_equip
 prop_rail_tankcar2
@@ -41855,6 +41945,7 @@ dlc_mp_sum2_g9ec_m_phead_0_0
 discount_male_lowers_brown_stripe_track_pants
 apa_prop_heist_cutscene_doorb
 xm3_int2_int02_ledstrip_002
+action_audio_ammo_bullet_mp
 discount_female_hats_baby_blue_canvas_hat
 ms_fbi4p1_vehicle_damage
 rewardplaylist_25
@@ -43465,6 +43556,7 @@ dlc_mp_luxe_m_teeth_29_0
 dlc_mp_tuner_m_jbib_11_8
 mp1_mpsv_flags_155
 currentvehiclesalestuseason
+reward_weapon_knife
 sum_offroad_wheel_lightweight_steelie
 dlc_mp_smug_m_special_10_16
 dlc_mp_sum_f_jbib_13_6
@@ -43741,6 +43833,7 @@ mp1_pass_db_player_kills
 sum_prop_ac_pit_sign_right
 prop_tree_cedar_s_02
 miss_switch_jewelry_prep1b
+reward_weapon_sniperrifle
 mp0_bkr_prod_stop_cout_s1_5
 mp1_mpsv_vehicle_bs_61
 mp1_tampa3_mort_deaths
@@ -43776,6 +43869,7 @@ enablestunt_creator_dominator
 xm22_copper_thick_curb_chain
 v_ind_coo_half
 dlc_mp_arena_m_jbib_15_7
+pickup_weapon_ceramicpistol
 mp0_dlc_apparel_used_155
 weaponaddon_advancedrifle_supp_expenditure_tunable
 component_at_muzzle_08
@@ -44011,6 +44105,7 @@ v_res_tt_fridge
 vw_prop_casino_art_gun_01a
 individual_clothing_sale_hash_labels_218
 apa_prop_flag_sweden
+pickup_portable_fm_content_mission_entity_small
 dlc_mp_arena_f_berd_4_5
 mp1_fixerpstat_int92
 dlc_mp_fixer_m_legs_5_0
@@ -44127,6 +44222,7 @@ sp1_appistol_heldtime
 dlc_mp_bh_m_jbib_1_7
 mp1_impexppstat_int351
 v_med_cor_autopsytbl
+reward_weapon_battleaxe
 event_login_dlc22022_wraparound_shades_santo_capra_pink
 gr_hats_flecktarn_boonie_up
 dlc_mp_smug_m_phead_3_18
@@ -44550,6 +44646,7 @@ gr_resupply_package_value
 hsw_test_ride_window_tint_colour
 carmod_unlock_tyre_smoke_green_expenditure_tunable_sport
 dlc_mp_tuner_m_special_1_4
+reward_ammo_heavypistol
 v_ret_chair_white
 mp1_impexppstat_int537
 mp0_char_fm_clothes_4_unlck
@@ -44811,6 +44908,7 @@ male_and_female_masks_forrest_hooded_ski
 mp1_businessbatpstat_int97
 v_ind_cm_tyre02
 mpply_fm_plyr_help_text
+reward_weapon_crowbar
 a_f_o_genstreet_01
 stunt_female_helmets_red_retro_bubble
 stunt_female_uppers_blue_jock_cranley_suit
@@ -45105,6 +45203,7 @@ dlc_hipster_clothing_female_red_cropped_biker
 female_uppers_all_gray_fitted_tux
 biker_on_the_run_rp_reward
 new_vs_cross_the_line_5
+pickup_portable_package_large_radius
 p_pharm_unit_02
 am_prostitute
 dlc_mp_lts_m_hand_9_19
@@ -46754,6 +46853,7 @@ vehicles_heist_karin_technical
 luxe2_male_uppers_black_lc_no2_tshirt
 mp0_average_no_passengers
 biker_both_genders_western_insignia
+reward_weapon_carbinerifle
 mp1_impexppstat_int696
 mp0_gangops_flow_notifications
 comp_kill_list_ai_enemy_kill_rp
@@ -47081,6 +47181,7 @@ impexp_transporter_require_wastelander
 hsw_test_ride_engine
 enable_retinue2_creators
 xs_prop_wall_tyre_start_01a
+reward_weapon_bullpuprifle_mk2
 mp1_lifetime_buy_undertaken
 dlc_mp_x17_f_special_9_3
 mp1_tupstat_int136
@@ -47247,6 +47348,7 @@ dlc_mp_luxe_m_pears_7_1
 prop_disp_cabinet_002
 arena_clothes_dystopia_leather_top_3
 smug_male_and_female_masks_white_broker_face_bandana
+action_group_onfoot
 earnings_gangops_finale_maximum_total_cash_take
 maleuppers_navy_continental_closed_jacket
 dlc_mp_gr_f_torso_15_14
@@ -47332,6 +47434,7 @@ mp0_impexppstat_int77
 ba_prop_battle_lights_workbench
 mp1_clths_available_jbib_3
 femaleuppers_valentines2016_gold_embroidered_dress
+reward_ammo_heavyshotgun
 mp0_casinopstat_int9
 mp1_mpsv_impound_time_32
 mp0_bikepstat_int201
@@ -47783,6 +47886,7 @@ prop_golf_putter_01
 a_m_m_soucent_01
 dlc_mp_gr_f_phead_6_5
 sp0_asltmg_hits
+reward_weapon_minigun
 subway1_ceilingbits2
 mp1_mchpist_fm_ammo_bought
 mp1_heist_role_48
@@ -47980,6 +48084,7 @@ hunt_the_beast_beast_speed
 xs_prop_x18_lathe_01a
 xs_propint2_centreline
 criminal_damage_bullet_min_cash
+reward_ammo_stickybomb
 prop_ic_jump_bl
 cap_for_exploit_level_5
 mp0_arcade_mac_11
@@ -48602,6 +48707,7 @@ h2_vehicles_price_sentinel_classic
 prop_plant_flower_04
 mp0_mpsv_flags_201
 mp0_mpsv_premium_paid_38
+action_audio_jerrycan
 mp0_mpsv_price_paid_347
 impexp_hats_pale_abstract_bigness_cap
 gr_prop_gunlocker_ammo_01a
@@ -49123,6 +49229,7 @@ dlc_mp_h4_f_hand_0_8
 dlc_mp_biker_f_special_17_12
 mp0_cl_call_friend
 mp0_asltriflefmjammocurrent
+action_audio_money_dep_bag
 weaponaddon_smg_engraved_expenditure_tunable
 dlc_mp_heist_f_legs_4_1
 dlc_mp_fixer_m_legs_5_11
@@ -49554,6 +49661,7 @@ arena_clothes_pogo_3
 prop_anim_cash_note_b
 dlc_mp_lts_f_hand_8_4
 mp1_ggsm_score_7
+reward_weapon_railgunxm3
 mp1_heist_role_18
 mp0_mpsv_model_4
 dlc_mp_gr_m_torso_2_9
@@ -50714,6 +50822,7 @@ sf_prop_sf_art_statue_tgr_01a
 dlc_mp_arena_m_special_4_10
 vw_prop_casino_slot_05b_reels
 hei_heist_acc_vase_02
+reward_parachute
 ih_combat_shotgun_lspd_tint
 dlc_shirt_an_american_divorce
 mp0_shopfm_carmod_02_id
@@ -51550,6 +51659,7 @@ weapons_xmas14_homing_launcher
 dlc_mp_arena_m_feet_12_0
 dlc_mp_hips_f_accs2_0
 halloween_2015_orange_classic_lucifer
+reward_ammo_railgunxm3
 mpply_heist_reset_profile
 ms_fin_haines_headshot
 dlc_mp_h4_f_torso_9_6
@@ -51674,6 +51784,7 @@ dlc_mp_fixer_f_phead_0_1
 dlc_mp_sum2_m_phead_6_1
 ih_green_painted_shortsleeve
 mp1_raypistol_fm_ammo_current
+reward_ammo_pumpshotgun_enter_vehicle
 mp1_pilot_lastlanddistance_0
 sp0_cars_wrecked
 mp0_bruiser_mg50_kills
@@ -52240,6 +52351,7 @@ mp1_arenawarspstat_int308
 mp1_grnlaunch_kills
 total_shop_time
 mp0_pounder2_gl_hits
+action_audio_armour_standard
 maleglasses_shell_janitor_glasses
 imp_prop_impexp_pliers_02
 prop_trailer01_up
@@ -52934,6 +53046,7 @@ dlc_mp_gr_f_special_14_8
 sum_mpapyacht_bath1_lamps
 firetruk
 mp1_prcsrifle_kills
+reward_weapon_marksmanrifle_mk2
 mp0_dlc_apparel_acquired_124
 impexp_disable_eye_sky
 v_16_high_kit_mesh_unit
@@ -52992,6 +53105,7 @@ mp1_dlc_apparel_used_187
 gr_hats_cobble_cap
 discount_female_glasses_red_tint_figure_8s
 mp1_mpsv_flags_279
+reward_ammo_assaultshotgun
 elegy2_web_price_modifier
 dlc_mp_luxe2_m_teeth_0_0
 dlc_mp_heist_m_phead_8_1
@@ -53195,6 +53309,7 @@ launchposix_vectre
 frogger2
 mp1_flashlight_in_possession
 sum_mpapyacht_dk3_bar1
+reward_ammo_navyrevolver
 dlc_mp_arena_m_berd_1_3
 ch_arcade_upgrade_drone_sale_price
 timescale_dm_minutes_under_2
@@ -53208,6 +53323,7 @@ both_genders_ls_serpent
 member_min_heist_finale_take_percentage
 dlc_mp_ar_m_legs_1_11
 dlc_mp_hips_m_feet1_15
+reward_ammo_autoshotgun
 dlc_mp_sum_m_jbib_14_18
 ar_prop_ig_raine_cp_single_l2
 sf_int3_ceiling_recessed_f003
@@ -53468,6 +53584,7 @@ enable_creator_comet5
 gb_disable_call_armored_baller
 dlc_mp_sum_f_jbib_6_5
 dlc_mp_sum2_f_teeth_1_0
+reward_weapon_hazardcan
 mp0_clths_used_hair_4
 sp1_crbnrifle_hits
 mp0_mpsv_lp0_190
@@ -53554,6 +53671,7 @@ mp1_bg_script_int_08
 sp2_stungun_deaths
 v_ilev_fib_atrgl3
 dlc_mp_h3_f_hand_0_21
+threshold_race_inactivity_reduced_rewards_waive_time_seconds
 dlc_mp_tuner_f_decl_14_0
 dlc_mp_smug_m_berd_9_4
 prop_rail_boxcar
@@ -53991,6 +54109,7 @@ dlc_mp_low2_f_jbib_2_0
 dlc_mp_low_m_jbib_3_1
 vw_prop_casino_art_vase_10a
 mp0_apapstat_int95
+reward_weapon_petrolcan
 dlc_mp_tuner_f_hair_0_0
 dlc_mp_arena_m_legs_3_10
 prop_fncwood_01_ld
@@ -54031,6 +54150,7 @@ mp0_char_kit_14_fm_viewed
 xs_combined2_terrain_dystopian_08
 apa_mp_h_acc_rugwoolm_03
 v_ind_found_cont_win_frm
+reward_weapon_stungun_mp
 mp0_is_char_a_boss
 mp1_impexppstat_int192
 dlc_hipster_car_mod_regina
@@ -54223,6 +54343,7 @@ s_m_m_lsmetro_01
 dlc_mp_arena_f_legs_8_2
 maleuppers_yellow_continental_closed_jacket
 discount_female_feet_charcoal_ankle_boots
+reward_weapon_heavyshotgun
 mp0_rpg_deaths
 dlc_vehicle_pegassi_speeder
 mp1_empgl_deaths
@@ -54676,6 +54797,7 @@ mp1_mpsv_lp0_324
 tattoo_american_made
 impexp_garage_signage5_cost
 gr_research_weight_half_track_20mm_quad_cannons
+reward_ammo_hazardcan
 mp1_low_flow_cs_fin_seen
 dlc_mp_sum2_m_jbib_12_9
 dlc_mp_gr_f_jbib_12_18
@@ -54896,6 +55018,7 @@ tr_int2_outer_lines
 mp1_mp_char_armour_3_count
 mp0_arena_mg_headshots
 new_survival_completion_mod
+pickup_weapon_gadgetpistol
 dlc_mp_h4_m_hand_1_20
 xm22_gun_van_slot_weapon_discount_4
 dlc_mp_stunt_m_phead_5_3
@@ -55032,6 +55155,7 @@ opt_out_individual_clothing_sale_hash_labels_148
 mp1_mpsv_price_paid_47
 mp1_zr3803_mg50_headshots
 tr_prop_meth_openbag_02
+reward_stat_health_variable
 prop_ic_arm
 mp0_blrifle_mk2_shots
 dlc_mp_biker_f_special_17_23
@@ -55793,6 +55917,7 @@ mp1_issi5_mg50_shots
 su22_pale_brown_laced_leather
 mp1_microlight_mg_heldtime
 xs_combined2_dyst_glue_09
+pickup_weapon_hazardcan
 xs_propint5_waste_09_ground
 mp1_lrpstat_int114
 enable_transform_wastelander
@@ -56583,6 +56708,8 @@ mp1_hunter_bullet_enemy_kills
 mp0_barrage_t_mini_kills
 mp1_businessbatpstat_int262
 mp0_pipebomb_enemy_kills
+pickup_weapon_combatshotgun
+reward_weapon_grenade
 securoserv_warehouse_warehouse7
 dlc_mp_vwd_f_jbib_20_10
 mp0_jb7002_mg_kills
@@ -56906,6 +57033,7 @@ discount_female_feet_orange_prolaps
 v_44_1_daught_cdoor2
 dlc_mp_x17_f_outfit_gorka_5
 tuner_lucky_penny_print_hoodie
+reward_ammo_pistolxm3
 mp0_prcsrifle_fm_ammo_bought
 mp1_bikepstat_int160
 individual_vehicle_sale_hash_labels_67
@@ -57002,6 +57130,7 @@ mp0_casinopstat_int144
 v_61_bd1_mesh_shoes
 mp0_speedo4_mini_enemy_kills
 prop_sglasses_stand_01
+reward_weapon_pumpshotgun
 v_74_of_litter_d_h014
 dlc_mp_biker_m_phead_0_4
 venetian_job_6_new_vs
@@ -57505,6 +57634,7 @@ dlc_mp_arena_f_jbib_8_5
 fl_co_car3
 discount_male_hats_purple_checked_bandana
 mpply_curr_chal_series_hash
+reward_weapon_heavyrifle
 dlc_mp_biker_f_berd_0_0
 biker_uppers_worn_black_patched_cut
 mp1_ch_arc_cab_display_slot11
@@ -57739,6 +57869,7 @@ tattoo_mp_fm_37_expenditure_tunable
 sf_int3_hatch_inspect003
 mp1_mpsv_impound_time_251
 biker_disable_stand_your_ground_2
+race_creator_warp_destination_vehicle_size_difference_threshold
 mp0_cr_gangop_spyplane
 sp2_cars_cops_wrecked
 dlc_mp_heist_f_special2_2_3
@@ -57839,6 +57970,7 @@ dlc_mp_biker_f_special_4_17
 dlc_mp_bh_f_jbib_6_12
 v_16_hi_studdorrtrim
 dlc_mp_sum_m_jbib_4_0
+action_audio_money_case
 impexp_masks_bold_abstract_bigness_facemask
 dlc_mp_fixer_m_jbib_2_10
 dlc_mp_bh_f_special_3_6
@@ -58167,6 +58299,7 @@ ar_prop_inflategates_cp_loop_01c
 dlc_mp_bh_m_legs_0_6
 biker_disable_setup_meth_15
 mp1_mpsv_price_paid_57
+reward_health
 dlc_mp_beach_m_lowr2_6
 heist_fail_cash_time_period_3
 dlc_mp_gr_f_torso_22_19
@@ -58231,6 +58364,7 @@ mp1_su20pstat_int132
 v_24_bdrm_mesh_mirror
 femaleshoes_all_black_cowboy_boots
 v_ind_tor_smallhoist01
+reward_weapon_revolver_mk2
 mp1_khanjali_hcann_heldtime
 vc_penthouse_disable_cabinet_styles
 mp0_apapstat_int53
@@ -59422,6 +59556,7 @@ mp1_char_kit_5_fm_unlck
 dlc_mp_ar_m_decl_1_0
 xs_combined_dyst_pipes_04
 mp1_lrpstat_int13
+action_audio_projectile
 mp0_lrpstat_int198
 mp0_mc_gang_name
 mp1_clths_used_torso
@@ -59585,6 +59720,7 @@ sf_int1_panel
 mp0_money_spent_property_util
 dlc_mp_gr_m_special_4_20
 v_74_it3_debf
+reward_weapon_bullpuprifle
 mp1_mpsv_price_paid_152
 mp0_mpsv_price_paid_334
 sf_ych_mod_glass10
@@ -59863,6 +59999,7 @@ dlc_mp_x17_f_jbib_5_0
 tr_int2_bulks
 h4_prop_h4_box_ammo_01b
 dlc_mp_gr_m_decl_4_0
+reward_ammo_vintagepistol
 on_call_ratio_vs_stage_4
 dlc_mp_sum2_f_feet_2_4
 carmod_unlock_roof_l1_expenditure_tunable_sport
@@ -60189,6 +60326,7 @@ dlc_mp_smug_f_phead_3_2
 sp1_mkpistol_kills
 maleuppers_fruity_tracksuit_top
 dlc_mp_lts_m_hand_1_19
+reward_ammo_gadgetpistol
 dlc_mp_h4_m_jbib_4_17
 v_corp_sidechairfd
 tr_int2_fluoro_ref_only_mesh
@@ -60382,6 +60520,7 @@ dlc_mp_fixer_f_special_9_1
 dlc_the_european
 mp0_mpsv_obtained_time_103
 launchposix_neon
+action_audio_vehicle_molotov
 smug_male_and_female_hat_moss_peaked_cap
 ba_rig_dj_all_lights_03_off
 sp2_mkrifle_hits
@@ -60582,6 +60721,7 @@ sp0_pass_db_kills
 discount_female_uppers_crosses_bikini
 dlc_mp_h3_f_outfit_jan_6
 dlc_mp_gr_f_legs_3_0
+reward_ammo_combatpistol
 weapon_plus_attachments_sale_sniperrifle
 playerkit_armour_store_l2_rank_tunable
 opt_out_individual_clothing_sale_hash_labels_39
@@ -60682,6 +60822,7 @@ v_res_fa_potsug
 dlc_mp_gr_f_jbib_8_15
 car_mods_chrome_supermod_2_wheels
 dlc_mp_luxe2_m_teeth_7_0
+pickup_weapon_metaldetector
 mp0_fixerpstat_int150
 weapon_crowbar
 xs_propint4_waste_09_loops
@@ -60945,6 +61086,7 @@ prop_ic_non_hrocket
 fm_corona_playlist_root_content_id_19_professional_18
 dlc_mp_x17_m_outfit_morph_1
 playerkit_fm_whiteredbrown_parachute_expenditure_tunable
+action_audio_shotgun
 launchposix_howard
 dlc_mp_h4_f_special_0_15
 mp1_nightclub_hotspot_time_ms
@@ -60977,6 +61119,7 @@ u_m_y_proldriver_01
 mp1_prop_megaware_gar2_var
 gb_disable_boss_work_assault
 xm3_prop_xm3_pill_01a
+reward_armour
 mp0_arn_w_tag_team
 dlc_mp_smug_f_berd_3_16
 sp2_prxmine_deaths
@@ -61010,6 +61153,7 @@ dlc_mp_h3_f_jbib_13_10
 hei_heist_acc_vase_03
 mp1_casinohstpstat_int94
 dlc_the_sharp_teal_suit_open
+reward_weapon_knuckle
 dlc_mp_business_m_glasses1_1
 prop_flag_ls_s
 v_ret_ml_partframe1
@@ -61079,6 +61223,7 @@ ch_black_swirl_leather_half_face
 mp1_casinohstpstat_int6
 mp1_dlc12022pstat_int48
 prop_ic_ghost
+reward_ammo_sniperrifle
 component_tacticalrifle_clip_02
 assault_male_and_female_suits_red_classic_racing_suit
 dlc_mp_vwd_f_jbib_9_5
@@ -62220,6 +62365,7 @@ dlc_mp_low2_f_outfit_0
 mp0_fixer_completed_bs
 discount_female_uppers_red_tank
 mp1_damage_scar_zone_21
+reward_weapon_marksmanpistol
 dlc_mp_biker_m_hand_6_0
 malepants_black_shiny_pants
 mp0_char_fm_carmod_2_unlck
@@ -62932,6 +63078,7 @@ carmod_unlock_custom_tyres_expenditure_tunable_special
 v_24_bdr_mesh_lstshirt
 mp1_gangopspstat_int58
 dlc_mp_pilot_m_hand_6_20
+pickup_ammo_emplauncher
 mp0_hunter_cannon_shots
 prop_air_cargo_03a
 mp0_machete_hits
@@ -63009,6 +63156,7 @@ mp1_mpsv_model_8
 dlc_mp_biker_f_peyes_1_6
 dlc_mp_x17_m_feet_0_11
 v_ilev_go_window
+reward_ammo_pistol50
 dlc_mp_heist_m_berd_11_0
 mp1_ngpstat_int7
 tr_int1_mod_dirt
@@ -63082,6 +63230,7 @@ mp0_tattoo_fm_unlocks_8
 mp1_fimess_veh_zeno
 dlc_mp_exec_f_jbib_4_1
 gr_female_uppers_brown_digital_rolled_tee
+reward_ammo_compactlauncher
 mp1_dlcsmugcharpstat_int156
 mpply_ingamestore_moneyspent
 sm_wepbuyshr
@@ -63144,6 +63293,7 @@ mp0_tattoo_fm_unlocks_47
 dlc_mp_x17_f_feet_7_7
 dlc_mp_gr_f_special_1_6
 prop_cs_glass_scrap
+pickup_weapon_tacticalrifle
 mp0_mpsv_obtained_time_53
 prop_streetlight_12b
 w_sr_sniperrifle_luxe
@@ -64682,6 +64832,7 @@ su22_trade_price_postlude
 discount_female_uppers_topaz_denim_jacket
 mp0_mpsv_premium_paid_360
 mp1_char_fm_weap_addon_15_equip
+reward_weapon_hatchet
 des_glass_root
 sum_mpapyacht_corrframes
 hei_prop_hei_id_bank
@@ -65706,6 +65857,7 @@ dlc_mp_hips_m_jbib3_1
 mp1_mpsv_flags_336
 mp1_tula_mg_enemy_kills
 dlc_mp_sum2_m_legs_0_17
+reward_weapon_raypistol
 mp0_arenawarspstat_int329
 dlc_mp_smug_m_special_8_8
 mp1_tattoo_fm_viewed_22
@@ -65727,6 +65879,7 @@ mp1_firewrk_fm_ammo_current
 trailersmall2
 v_ilev_door_orange
 xm3_prop_xm3_rack_vial_01b
+reward_ammo_raypistol
 mp1_deity_mg_heldtime
 sf_int1_aprt_art1
 xs_propintarena_structure_f_02c
@@ -68127,6 +68280,7 @@ weaponaddon_knuckleduster_ballas_engraved_expenditure_tunable
 mp0_mpsv_premium_paid_146
 biker_sell_medium_enemy_fire_rate
 supermod_slot_ie_high_stock_interior_doors
+reward_weapon_tacticalrifle
 dlc_mp_ie_m_berd_10_7
 vc_peyote_disable_sharkhammer
 mp1_gclub_fm_ammo_bought
@@ -68277,6 +68431,7 @@ enable_transform_rebla
 mp0_char_kit_1_fm_equip
 biker_resupply_intimidation_targetting
 dlc_mp_smug_f_berd_6_17
+reward_ammo_heavysniper
 v_med_p_sofa
 luxe_cloth
 dlc_mp_gr_f_legs_1_3
@@ -69522,6 +69677,7 @@ vc_big_dix_tee
 stunt_male_uppers_radical_motocross
 mp1_impexppstat_int266
 dlc_mp_smug_m_berd_0_24
+reward_weapon_pistol
 dlc_mp_h4_m_hand_3_23
 v_serv_ct_monitor01
 makeup_unlocks_rocker_expenditure_tunable
@@ -71149,6 +71305,7 @@ reh_int4_style_5_switches_socket
 mp0_tunerpstat_int79
 taxi_deadline
 prop_skate_spiner_cr
+reward_weapon_rpg
 sabregt
 female_hair_wave_braids
 mp1_dominator5_mg50_deaths
@@ -71536,6 +71693,7 @@ supervolito2
 vc_work_weighting_body_disposal
 tuner_mods_wheels_forged_star
 prop_rub_litter_03b
+reward_ammo_missile_mp
 xm22_faded_dark_turnups
 v_16_high_lng_mesh_shelf
 ex_office_swag_paintings01
@@ -72664,6 +72822,7 @@ mp1_impexppstat_int565
 ch_prop_ch_malldoors_r_01a
 dlc_mp_beach_f_accs2_11
 gr_shoes_brown_tech_boots
+reward_ammo_marksmanpistol
 mp0_weap_fm_addon_purch14
 dlc_mp_arena_f_special_3_8
 mp1_hunter_barr_kills
@@ -72838,6 +72997,7 @@ v_74_atr_hall_d_ns002
 mp1_hunter_bullet_hits
 mp1_dlc_apparel_used_230
 dlc_mp_vwd_m_jbib_13_9
+threshold_race_inactivity_reduced_rewards
 impexp_ramped_up_no_of_crates
 bb_male_and_female_masks_woodland_camo_hockey
 mp1_impexppstat_int200
@@ -73232,6 +73392,7 @@ race_cash_multiplier
 mp0_mpsv_price_paid_53
 mpply_race_2_point_lost
 mp0_dlc_apparel_acquired_9
+reward_weapon_sawnoffshotgun
 mp1_mpsv_model_107
 individual_clothing_sale_hash_labels_394
 dlc_mp_stunt_m_phead_9_17
@@ -73710,6 +73871,7 @@ root_id_hash_pacific_standard_convoy
 dlc_mp_fixer_m_torso_0_0
 dlc_mp_gr_f_jbib_22_21
 mp1_rayminigun_heldtime
+action_padshake_onfoot
 v_8_bed1decaldirt
 mp0_fm_raceposition
 mp1_number_of_bourge_bought
@@ -74171,6 +74333,7 @@ biker_deathmatch_time_limit
 mp0_mpsv_premium_paid_89
 mp0_mpsv_impound_time_218
 dlc_mp_smug_m_berd_9_14
+reward_ammo_advancedrifle
 w_ar_assaultrifle_boxmag_luxe
 dlc_mp_low2_m_jbib_0_3
 mp1_arenawarspstat_int23
@@ -74242,6 +74405,7 @@ mp1_awd_passengertime
 mp1_mpsv_lp0_342
 v_11_abbslaugbld
 prop_picnictable_01
+reward_weapon_golfclub
 dlc_mp_sum2_f_jbib_13_6
 dlc_mp_fixer_m_jbib_8_14
 xs_prop_wall_tyre_l_01a
@@ -74383,6 +74547,7 @@ dlc_mp_bh_f_special_11_17
 sr_prop_spec_tube_crn_04a
 car_mods_supermod_slot_27th_mod_multiplier
 ih_orange_and_green_strapz_vest
+action_audio_health_snack
 ciarena_playlist_theme_arena_25
 mp1_molotok_mg_kills
 discount_female_hats_field_camo_military_cap
@@ -75698,6 +75863,7 @@ script_task_use_nearest_train_scenario_to_pos
 mp1_casinohstpstat_int57
 dlc_mp_bh_f_special_9_11
 su22_orange_laced_leather
+reward_weapon_candycane
 dlc_mp_luxe_m_pears_5_1
 mp1_mpsv_lp0_61
 dlc_mp_x17_m_legs_0_21
@@ -76888,6 +77054,7 @@ mp1_dlc_apparel_acquired_166
 v_corp_banktrolley
 w_mg_combatmg_luxe
 mpply_crew_local_time_1
+pickup_weapon_precisionrifle
 enable_transform_stryder
 dlc_mp_gr_f_jbib_19_5
 prop_dock_crane_04
@@ -77300,12 +77467,14 @@ dlc_mp_sum2_f_pleft_wrist_3_2
 mp0_awd_youmeanboobytraps
 mp1_airstrike_kills
 dlc_mp_biker_f_jbib_26_0
+reward_weapon_smokegrenade
 mp0_ie_owned_vehicle_4
 luxe2_male_accessories_carbon_pendulus_timestar
 dlc_mp_ie_f_jbib_21_13
 dlc_mp_sum_f_jbib_17_2
 enable_pariah
 sale_weapon_mod_menu_mkii_grips
+reward_ammo_flaregun
 dlc_mp_h3_f_outfit_sh_22
 arena_clothes_alien_retro_9
 carmod_unlock_dark_smoke_windows_expenditure_tunable_special
@@ -77571,6 +77740,7 @@ mp1_gb_office_name
 mp0_ch_arc_cab_display_slot29
 xs_propint5_waste_06_ground_d
 dlc_mp_sum_f_jbib_18_13
+reward_weapon_railgun
 car_meet_prize_vehicle_colour_6
 dlc_mp_h4_m_torso_9_4
 dlc_mp_gr_m_berd_4_21
@@ -78420,6 +78590,7 @@ mp0_swblade_kills
 dlc_mp_lts_f_hand_4_20
 male_and_female_masks_fat_cat_paper_bag
 v_19_strpprvrmcrt004
+reward_weapon_machete
 dm_rp_end_divider
 mp0_zr3802_mg50_enemy_kills
 reh_int3_cablemesh215918_thvy008
@@ -78499,6 +78670,7 @@ xm22_silver_beaded_bracelet
 v_ind_cm_light_on
 mp0_total_time_speccam_ctf
 dlc_mp_exec_m_legs_0_3
+reward_weapon_wrench
 ex_cash_pile_005
 mp1_dbshgn_db_heldtime
 vw_prop_cas_card_spd_09
@@ -78777,6 +78949,7 @@ dlc_mp_tuner_f_outfit_dock_3
 xm22_blush_bracelet_ensemble
 aw_workshop_property_graphics_6
 mp0_arn_bs_unlck_itm_view_16
+reward_ammo_stungun
 dlc_mp_sum2_m_pright_wrist_0_0
 dlc_mp_arena_f_feet_1_7
 car_meet_prize_vehicle_coord_offset_y
@@ -78946,6 +79119,7 @@ mp0_tuner_elevator_pass_bs
 ih_sub_sale_japan_flag_purchase
 dlc_mp_sum2_m_feet_6_12
 dlc_mp_x17_f_outfit_scuba_19
+reward_ammo_marksmanrifle
 h4_root_content_id_0
 female_shoes_red_canvas_snugs
 dlc_mp_luxe_f_special2_0_0
@@ -79052,6 +79226,7 @@ biker_fakeids_equipment_upgrade_utility_cost
 dlc_mp_h4_f_hand_1_7
 dlc_mp_vwd_f_jbib_5_25
 dlc_mp_h3_m_jbib_3_0
+reward_weapon_poolcue
 dlc_mp_luxe_m_special_0_14
 dlc_mp_busi_f_jbib4_12
 dlc_mp_gr_f_jbib_16_23
@@ -79142,6 +79317,7 @@ dlc_mp_fixer_f_legs_3_22
 jacket
 ch_prop_ch_vault_green_04
 dlc_mp_busi_f_jbib3_4
+reward_weapon_autoshotgun
 challenge_position_modifier_in_place_3
 w_sb_pdw
 dlc_mp_h4_m_jbib_4_8
@@ -79517,6 +79693,7 @@ mp0_mpsv_lp0_155
 dlc_mp_bh_m_jbib_0_19
 mp0_impexppstat_int63
 dlc_mp_ie_f_jbib_11_3
+reward_ammo_firework_mp
 discount_male_lowers_white_plaid_running
 prop_rub_wreckage_6
 mp1_toscounter
@@ -80266,6 +80443,7 @@ time_driving_car
 mp1_admin_veh_gv_bs_19
 sf_int1_upper_glass2
 dlc_mp_biker_f_special_0_19
+action_audio_stungun
 mpply_bg_script_int_43
 globals_fmmc_struct_registration
 sum22_event_reward_f_7
@@ -81123,6 +81301,7 @@ mp0_hunter_cannon_heldtime
 dlc_mp_exec_f_jbib_15_0
 gr_masks_splinter_tactical_ski
 biker_disable_guns_for_hire_2
+reward_weapon_specialcarbine_mk2
 dlc_mp_heist_m_special_8_0
 stt_prop_stunt_track_link
 gb_disable_boss_radius_health_regen
@@ -81952,6 +82131,7 @@ h2_vehicles_price_comet_safari
 dlc_mp_sum2_m_jbib_11_2
 dlc_mp_h3_f_phead_8_2
 v_31_tun09junk005
+reward_ammo_carbinerifle
 dlc_mp_arena_m_jbib_5_7
 faggio3
 discount_male_feet_black_oxfords
@@ -82116,6 +82296,7 @@ mp0_apapstat_int9
 v_res_jcushiona
 xm22_pink_flames_denim
 mp0_low_flow_cs_pho_seen
+reward_ammo_grenadelauncher_mp
 dlc_mp_x17_m_legs_4_0
 legendary_displayed_discount
 v_med_cor_divider
@@ -82446,6 +82627,7 @@ v_ret_ml_win3
 mp0_ggsm_score_8
 discount_male_uppers_navy_plaid_jacket
 mp1_badland_score_6
+reward_weapon_stickybomb
 male_hair_ponytail_light_brown_expenditure_tunable
 mp1_mpsv_model_263
 fm_corona_playlist_reward_3_professional
@@ -82505,6 +82687,7 @@ prop_barrel_float_1
 dlc_mp_vwd_f_jbib_14_9
 iindividual_weapon_sale_hash_labels_86
 miss_switch_franklin2
+pickup_weapon_stungun_mp
 taxi_taketobest
 xm_base_cia_lamp_ceiling_01
 mp1_arenawarspstat_int24
@@ -83509,6 +83692,7 @@ dlc_mp_gr_f_torso_32_2
 mp1_axefuryscore_6
 biker_disable_resupply_intimidation_3
 mp1_dlc12022pstat_int177
+pickup_weapon_pistolxm3
 mp1_railgun_deaths
 mp0_mkpistol_headshots
 v_ind_rc_fans
@@ -84123,6 +84307,7 @@ stunt_male_helmets_death_helmet
 dlc_mp_sum_f_jbib_7_15
 back_crew_logo
 dlc_mp_fixer_f_jbib_6_12
+reward_weapon_combatshotgun
 mp1_bg_script_int_47
 dlc_mp_gr_f_torso_23_18
 mp1_char_total_time_mission
@@ -84236,6 +84421,7 @@ ch_smiley_cap
 exec_airfreight_cooldown
 mp1_mpsv_premium_paid_356
 dlc_mp_stunt_f_special_3_6
+action_audio_custom
 mpply_new_content
 mp0_rpg_enemy_kills
 dlc_mp_fixer_m_jbib_6_5
@@ -84520,6 +84706,7 @@ dlc_mp_arena_m_legs_12_4
 mp1_clbhos_sinagehide
 property_garage_new_9_expenditure_modifier
 prop_plant_paradise
+reward_weapon_combatmg
 cs_jimmydisanto
 dlc_mp_low2_f_special_1_2
 car_meet_prize_vehicle_colour_5
@@ -85455,6 +85642,7 @@ dlc_mp_gr_f_special_16_15
 script_task_drive_point_route
 dlc_mp_biker_m_decl_2_0
 mp1_char_fm_package_4_collect
+reward_weapon_combatpdw
 sp0_knife_heldtime
 mp1_impexppstat_int238
 dlc_mp_g9ec_f_decl_2_2
@@ -85524,6 +85712,7 @@ mp0_impexppstat_int422
 reh_int3_decals2
 dlc_mp_gr_f_special_16_9
 dlc_mp_h3_f_special_10_19
+reward_ammo_gusenberg
 dlc_the_tycoon
 dlc_hipster_clothing_male_crimson_docks
 mp0_arn_veh_zr3803
@@ -85927,6 +86116,7 @@ bb_female_uppers_pale_leopard_loose_tank
 femaleuppers_brown_quilted_jacket
 biker_business_paleto_bay_cocaine_lockup_base
 mp0_footage_initials_3
+reward_weapon_vintagepistol
 v_res_tt_tissues
 dlc_mp_h4_m_teeth_13_5
 ex_mp_h_acc_box_trinket_01
@@ -86723,6 +86913,7 @@ prop_strip_door_01
 dlc_mp_exec_m_jbib_10_1
 dlc_vinewood_hockey
 coquette_expenditure_modifier
+action_audio_handgun
 mp1_dlc_apparel_acquired_114
 fm_corona_playlist_root_content_id_26_professional_11
 dlc_mp_sum_f_special_5_22
@@ -86940,6 +87131,7 @@ mp1_admin_clothes_gv_bs_15
 discount_female_uppers_baby_blue_tank
 dt1_21_gd1_dz1
 luxe1_addonsmarksman_rifle_yusuf_amir_luxury_finish
+reward_ammo_molotov
 mp0_bikepstat_int13
 ar_prop_ig_jackal_cp_b_l2
 dlc_mp_vwd_f_feet_3_7
@@ -87807,6 +87999,7 @@ ms_ep6_perfect_landing
 biker_uppers_worn_ox_blood_leather_cut
 dlc_mp_biker_m_hand_0_0
 dlc_mp_ie_f_special_8_1
+reward_ammo_revolver
 h4_prop_battle_dj_mixer_01e
 mp1_char_kit_4_fm_viewed
 v_74_fib_embb029
@@ -88740,6 +88933,7 @@ top_down_7_new_vs
 mp1_slamvan4_mg50_deaths
 dlc_mp_gr_f_jbib_13_21
 dlc_mp_h3_f_special_11_4
+reward_weapon_snspistol_mk2
 dlc_mp_sum2_f_jbib_0_18
 sum_mp_h_acc_candles_06
 biker_disable_resupply_bank_2
@@ -88794,6 +88988,7 @@ eventpyjamas_11
 nightclubincomeuptopop5
 dlc_mp_biker_f_outfit_5
 mp0_dlc_apparel_used_213
+reward_ammo_machinepistol
 fm_corona_playlist_root_content_id_0_professional_0
 male_uppers_viper_utility_bomber
 dlc_mp_bh_m_special_1_10
@@ -89388,6 +89583,7 @@ dlc_mp_vwd_f_feet_2_7
 mp1_strikeforce_can_heldtime
 mp1_ch_arc_cab_display_slot32
 dlc_mp_x17_m_special_5_3
+pickup_weapon_petrolcan_small_radius
 mp1_mpsv_model_305
 bb_terrorbyte_tint_7
 gr_both_genders_lock_and_load
@@ -90993,6 +91189,7 @@ dlc_mp_h4_f_hand_2_12
 dlc_mp_gr_f_special_12_1
 mp0_mpsv_lp0_246
 mp1_objectivehistory23
+fkoth_idle_time_percentage_for_losing_awards
 dlc_black_skinny_suit_pants
 v_31_flow1_0069
 ch_in_love
@@ -92445,6 +92642,7 @@ dlc_mp_bh_f_jbib_17_10
 mp1_knife_enemy_kills
 dlc_mp_gr_f_special_5_6
 discount_male_uppers_woodland_camo_tank
+pickup_weapon_navyrevolver
 mp0_businessbatpstat_int315
 csb_talcc
 xs_combined_dyst_05_props01
@@ -93106,6 +93304,7 @@ mp1_mpsv_impound_time_334
 mp_fm_registration
 dlc_mp_sum_f_special_0_23
 ind_prop_firework_02
+reward_weapon_flashlight
 speedrace_3_new_vs
 mp0_dlc12022pstat_int167
 bb_male_and_female_masks_geometric_hockey
@@ -94256,6 +94455,7 @@ mp0_dlcsmugcharpstat_int245
 luxe2_female_uppers_classic_p_print_sweater
 hacker_truck_carmod
 dlc_mp_gr_f_special_20_17
+action_audio_parachute
 scripttest4
 dlc_mp_h4_f_berd_1_0
 dlc_mp_smug_f_phead_3_15
@@ -94867,6 +95067,7 @@ ch_prop_ch_sec_cabinet_01h
 golf_mp
 mp0_helpseigementality
 objective_multiplier
+reward_weapon_rayminigun
 mp0_autoshgn_aquired_as_gift
 tr_prop_tr_tampa2
 dlc_mp_gr_f_torso_20_0
@@ -95124,6 +95325,7 @@ v_11_abbebtsigns
 mp0_oppressor2_mg_enemy_kills
 mp1_mpsv_impound_time_213
 xs_propint3_waste_01_garbage_b
+race_creator_prevent_valid_warp_destinations_with_prop_intersections
 aw_workshop_property_floor_b2_graphics_2
 mp1_hunter_rocket_heldtime
 dlc_mp_ie_f_feet_1_0
@@ -95339,6 +95541,7 @@ dlc_mp_h4_f_berd_2_18
 dlc_mp_smug_m_special2_5_0
 dlc_mp_tuner_f_jbib_16_7
 dlc_mp_ind_m_special_5_0
+reward_ammo_bullpupshotgun
 sp2_lazer_rocket_kills
 mp0_mpsv_impound_time_217
 mp1_khanjali_mg_headshots
@@ -95413,6 +95616,7 @@ mp0_spcarbine_heldtime
 lts_m_tan_wool_gloves
 mp1_mpsv_price_paid_266
 mp1_heist_saved_strand_3_m
+reward_weapon_flaregun
 halloween_2015_halloween_loop_2
 v_31a_tun_tarp_tower
 v_74_cfemlight_rsref028
@@ -96151,6 +96355,7 @@ dlc_mp_gr_m_torso_25_0
 mp1_lap_danced_bought
 mp1_stromberg_mg_enemy_kills
 dlc_mp_gr_f_torso_8_13
+reward_ammo_microsmg
 mp1_impexppstat_int406
 malepants_khaki_battle_pants
 mpply_bg_script_int_36
@@ -96560,6 +96765,7 @@ prop_huge_display_02
 dlc_mp_gr_f_jbib_4_22
 exec_disable_buy_stealtransporter
 dlc_mp_gr_m_special_2_5
+reward_ammo_minismg
 dlc_mp_h3_f_phead_5_11
 dlc_mp_smug_m_berd_9_5
 re_lossantosintl
@@ -96890,6 +97096,7 @@ apa_prop_apa_bankdoor_new
 dlc_mp_fixer_m_phead_6_8
 gr_prop_gr_adv_case
 bb_female_lowers_criss_cross_shorts
+reward_ammo_militaryrifle
 dlc_mp_gr_f_jbib_3_7
 discount_male_uppers_purple_track_jacket
 dlc_mp_exec_f_outfit_1
@@ -97246,6 +97453,7 @@ dlc_mp_low2_f_jbib_8_3
 discount_female_uppers_pink_striped_tank
 dlc_mp_gr_m_feet_2_3
 dlc_mp_gr_f_jbib_7_21
+reward_weapon_assaultrifle
 dlc_mp_smug_m_berd_7_15
 mp0_dlc_apparel_acquired_145
 mp0_tupstat_int150
@@ -97321,6 +97529,7 @@ ex_mp_h_acc_dec_sculpt_03
 mp0_dlcsmugcharpstat_int47
 gb_bellybeast
 dlc_mp_busi_f_accs0_3
+reward_ammo_snspistol
 sp1_unarmed_kills
 tuner_robbery_leader_cash_reward4
 enable_transform_shinobi
@@ -97714,6 +97923,7 @@ dlc_mp_sum2_f_peyes_0_2
 prop_ch2_wdfence_02
 individual_clothing_sale_hash_labels_442
 smug_male_and_female_balaclavas_skate_scruffy
+reward_weapon_nightstick
 mp1_arenawarspstat_int99
 sum_female_salmon_tucked_short_shirt
 dlc_mp_ie_m_berd_2_1
@@ -97809,6 +98019,7 @@ dlc_mp_arena_f_outfit_space_a_3
 dlc_mp_h3_m_legs_4_10
 mp0_casinopstat_int49
 dlc_mp_low_m_teeth_1_0
+reward_ammo_petrolcan
 mp0_dlcsmugcharpstat_int86
 dlc_mp_ie_f_jbib_16_1
 prop_oil_derrick_01
@@ -98731,6 +98942,7 @@ sp0_db_kills
 impexp_female_uppers_bright_squash_rolled_tee
 h2_male_and_female_facepaint_the_elder
 dlc_mp_h3_m_phead_5_1
+reward_ammo_combatpdw
 dlc_mp_gr_f_torso_14_10
 xs_propint3_waste_03_bikerim
 dlc_mp_busi_f_jbib2_11
@@ -100309,6 +100521,7 @@ weaponaddon_apppistol_engraved_expenditure_tunable
 dlc_weapon_addon_bullpup_rifle_ammo
 mp0_fm_cellphone_quicklaunch
 vw_prop_vw_v_brochure_01a
+reward_ammo_combatshotgun
 discount_female_feet_gray_two_tone_round_toed
 eventsmokingjacket_15
 su22_dark_green_road_boots
@@ -100384,6 +100597,7 @@ exec_fgoods_trailer_cargobob
 mp0_mpsv_premium_paid_69
 carmod_unlock_r_bumper_l2_expenditure_tunable_bike
 sf_prop_sf_door_stat_r_01a
+reward_weapon_metaldetector
 dlc_mp_sum2_f_jbib_0_20
 dlc_mp_stunt_m_jbib_6_12
 dlc_vintage_top_hat
@@ -100674,6 +100888,7 @@ v_serv_metro_stationgate
 dlc_mp_fixer_m_jbib_3_15
 prop_inout_tray_02
 ih_sub_sale_denmark_flag_purchase
+reward_weapon_revolver
 fixer_orange_pullover_hoodie
 launchposix_issi3
 dlc_mp_biker_m_legs_4_7
@@ -101106,6 +101321,7 @@ mp0_mpsv_price_paid_266
 p_secret_weapon_02
 imp_prop_tool_box_02a
 gr_bunker_gunrunning_business_upgrades_equipment_upgrade_base
+pickup_weapon_fertilizercan
 prop_ex_b_time_pk
 vehicle_weapon_mule4_turret_gl
 mp0_halftrack_quad_deaths
@@ -101167,6 +101383,7 @@ gb_pointtopoint_participation_threshold_distance_start
 dlc_mp_h3_m_jbib_10_4
 dlc_mp_busi_m_jbib3_1
 mp1_deathbike_mini_headshots
+reward_weapon_stungun
 dlc_mp_fixer_f_phead_4_0
 mp1_mpsv_lp0_6
 xm_prop_sam_turret_01
@@ -101872,6 +102089,7 @@ v_74_v_fib02_it1_007
 mp1_mpsv_premium_paid_174
 w_sr_heavysnipermk2_mag1
 mp1_impexppstat_int518
+reward_weapon_dbshotgun
 prop_earned_cmsh
 mp1_car_sold_time_19
 mpply_available_dms
@@ -102450,6 +102668,7 @@ w_mg_combatmg_luxe_mag1
 exec_contraband_sale_crates_threshold10
 mp0_damage_scar_hash_value_5
 weapon_switchblade
+reward_weapon_switchblade
 mp0_bikepstat_int155
 ig_lazlow
 ch_prop_heist_drill_bag_01b
@@ -102466,6 +102685,7 @@ dlc_mp_busi_m_accs5_5
 exec_office_money_piles_threshold18
 dlc_mp_low2_f_teeth_3_1
 dlc_mp_gr_f_jbib_11_22
+reward_weapon_bottle
 xm22_peach_trucker_forwards
 dlc_mp_h4_m_peyes_2_4
 aw_trade_price_glendale
@@ -103170,6 +103390,7 @@ component_bat_varmod_xm3_04
 impexp_stockpiling_self_destruct
 dlc_mp_gr_f_torso_11_9
 dlc_mp_h3_m_jbib_10_17
+reward_ammo_hominglauncher
 tr_race_creator_beast_transform
 stunt_ocelot_lynx
 am_mp_submarine
@@ -103969,12 +104190,14 @@ v_74_it2_ceiling_smoke_03_skin
 individual_vehicle_sale_hash_labels_137
 dlc_mp_arena_f_berd_8_4
 sum_white_service_shirt_tucked
+reward_ammo_grenadelauncher
 dlc_mp_tuner_f_decl_1_0
 mp1_asltsmg_enemy_kills
 fm_corona_playlist_blip_short_range_1
 dlc_mp_arena_m_legs_7_17
 reh_prop_reh_box_metal_01a
 sf_prop_art_cap_01a
+reward_weapon_pistolxm3
 fixer_login_award_fishmask_3
 mpply_bg_script_int_12
 dlc_weapon_tint_army_mini_smg
@@ -105197,6 +105420,7 @@ mp1_lrpstat_int28
 xs_prop_arena_spikes_01a_sf
 dlc_mp_luxe_m_jbib_3_18
 smug_male_and_female_masks_blue_blagueurs_face_bandana
+reward_ammo_railgun
 prop_glass_panel_03
 challenge_ambient_weighting_pvp_highest_no_of_players_set_on_fire
 v_res_fa_book04
@@ -106038,6 +106262,7 @@ stt_prop_track_chicane_l_02
 mp1_tanks_destroyed_on_spree
 h2_male_and_female_shoes_brown_trail
 dlc_mp_fixer_f_jbib_9_13
+reward_weapon_pipebomb
 dlc_mp_biker_f_hand_3_19
 maleuppers_gray_long_suit
 dlc_mp_x17_m_jbib_1_5
@@ -106364,6 +106589,7 @@ biker_draw_28
 fixer_navy_cuffed_sweats
 mp1_prop_hangar_var
 dlc_mp_fixer_m_legs_1_12
+reward_weapon_snspistol
 xm22_gray_vinyl_cut
 contacts_extra_terrestrial
 ba_prop_battle_coke_block_01a
@@ -106993,6 +107219,7 @@ mp1_mpsv_model_184
 v_31_newtun01waterb
 launchposix_toreador
 bkr_prop_cutter_moneystack_01a
+reward_weapon_compactlauncher
 dlc_mp_stunt_m_legs_3_15
 discount_male_hats_black_winter_hat
 sp2_total_damage_cars
@@ -107001,6 +107228,7 @@ discount_male_feet_gray_canvas_shoes
 individual_clothing_sale_hash_labels_233
 mp0_admin_veh_rm_bs_8
 maleglasses_black_superior_glasses
+reward_weapon_fertilizercan
 discount_male_feet_ash_oxfords
 v_ind_ss_threadsd
 dlc_mp_sum_f_torso_3_6
@@ -107088,6 +107316,7 @@ impexp_sell_reduction_buyer1_medium
 activity_celebratiion_ready_timer
 tr_prop_meth_acetone
 dlc_weapon_tint_lspd_musket
+reward_weapon_precisionrifle
 tr_int1_mod_lights_3
 dt_additions_sm_26_emissivefix_lod
 mp1_mpsv_model_326
@@ -107704,6 +107933,7 @@ mp0_damage_scar_uvpos_15
 dlc_mp_gr_f_torso_32_19
 rewardplaylistitem_23
 tuner_mods_wheels_super_turbine
+reward_weapon_hominglauncher
 biker_torched_time_limit
 impexp_uppers_pink_bigness_puffer
 xm22_baseball_bat_burger_shot
@@ -107914,6 +108144,7 @@ weaponaddon_pistol50_clip_02_expenditure_tunable
 sat_purchased_vehicle
 mp0_discount_hsw_mod19
 dlc_mp_beach_f_lowr6
+action_audio_vehicle_armour
 dlc_mp_gr_f_special_0_23
 mp1_arcade_mac_3
 luxe2_male_outfits_the_benefactor
@@ -108322,6 +108553,7 @@ dlc_mp_biker_m_special_11_6
 prop_ic_homing_rocket_pk
 mp0_dlc_apparel_acquired_130
 dlc_mp_bh_f_jbib_7_12
+action_audio_molotov
 sp2_buzzard_bullet_heldtime
 female_outfit_the_chola
 smug_male_and_female_uppers_light_woodland_flight_suit
@@ -108515,6 +108747,7 @@ mp0_caracara_mini_shots
 stunt_male_uppers_black_dragon_silk_bomber
 dlc_mp_fixer_m_jbib_0_2
 mp1_char_kit_28_fm_unlck
+reward_ammo_pumpshotgun
 mp0_bronze_intchar_1
 mp0_awd_warrior
 v_ret_ml_sweet4
@@ -110035,6 +110268,7 @@ dlc_mp_arena_m_legs_5_15
 dlc_mp_lts_m_hand_1_15
 mp1_mpsv_model_330
 mp1_microsmg_headshots
+reward_ammo_specialcarbine
 mp0_businessbatpstat_int121
 mp0_caracara_turr_hits
 u_m_y_hippie_01
@@ -110383,6 +110617,7 @@ sat_found_lowest_point
 dlc_mp_sum2_f_jbib_0_4
 mp0_casinopstat_int122
 sp2_mg_ammo_bought
+reward_weapon_pistol50
 ih_sub_base_color_7_renovation
 dlc_mp_pilot_m_hand_7_13
 mp1_insurgent_turr_shots
@@ -112227,6 +112462,7 @@ dlc_mp_x17_m_jbib_6_25
 lung_capacity
 dlc_mp_stunt_f_outfit_10
 mp0_mpsv_premium_paid_112
+pickup_weapon_railgunxm3
 dlc_mp_busi_f_accs1_0
 mp0_mpsv_lp0_199
 gr_prop_inttruck_light_gu_g_mu
@@ -113734,6 +113970,7 @@ dlc_mp_gr_m_special_1_9
 dlc_mp_gr_f_torso_26_18
 vc_yellow_scifi_large_shirt
 dlc_mp_vwd_m_special_5_8
+reward_ammo_musket
 enable_transform_rrocket
 ba_prop_battle_barrier_01c
 mp0_brutus2_mg50_headshots
@@ -114405,6 +114642,7 @@ squaddie
 mp1_dlcsmugcharpstat_int93
 mp1_fixerpstat_int184
 weapon_bottle
+race_creator_warp_destination_vehicle_size_difference_enable
 dlc_mp_stunt_f_phead_8_15
 v_ret_247_flour
 dlc_mp_ie_m_jbib_4_14
@@ -115803,6 +116041,7 @@ dlc_mp_gr_m_berd_2_23
 dlc_mp_tuner_f_jbib_6_7
 prop_fncwood_08c
 dlc_mp_gr_f_jbib_15_5
+reward_ammo_rpg
 ch_prop_ch_sec_cabinet_03a
 mp0_mpsv_price_paid_243
 biker_disable_pow
@@ -115945,6 +116184,7 @@ prop_jewel_02a
 vw_prop_cas_card_dia_02
 dlc_mp_sum2_m_hand_2_0
 mp0_mpsv_premium_paid_131
+action_group_incar
 dlc_mp_gr_m_legs_0_18
 w_at_smgmk2_camo10
 prop_gas_tank_02a
@@ -116703,6 +116943,7 @@ mp1_fixerpstat_int93
 dlc_mp_arena_f_feet_0_1
 vfx_it1_14
 dlc_mp_stunt_f_feet_1_1
+reward_weapon_marksmanrifle
 power_play_2_new_vs
 mp0_mpsv_model_114
 dlc_mp_h4_m_torso_7_0
@@ -116909,6 +117150,7 @@ dlc_mp_tuner_m_decl_32_0
 v_74_hobar_debris019
 dlc_mp_gr_f_torso_17_2
 dlc_mp_x17_f_feet_3_15
+pickup_weapon_emplauncher
 bb_hatchet_rampage_enable_knockback
 sf_prop_sf_s_mixer_02b
 female_shoes_black_sneaker_boots
